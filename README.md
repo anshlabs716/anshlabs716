@@ -357,7 +357,7 @@ There's always another:
 - 🤖 AI idea
 - 🎮 Game
 - 🧪 Experiment
-- 💡 Random thing to try at 2 AM 😭
+- 💡 Random thing to try at 2 AM
 
 And that's one of the reasons I love technology.
 
