@@ -370,8 +370,8 @@ There's always something else to learn.
 ### 🐧 Linux
 Having control over my computer and understanding how it works.
 
-### 📱 Android
-Customizing devices and exploring what Android can really do.
+### 📱 Android/root🚀
+Customizing devices and exploring what Android can really do and push it to its limits and beyond.
 
 ### 🔒 Privacy
 Giving people more control over their data and technology.
