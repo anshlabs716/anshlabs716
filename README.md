@@ -2,173 +2,163 @@
 
 # 👋 Hey, I'm Ansh
 
-### 🧑‍💻 Student Developer • Linux Enthusiast • Android Tinkerer • FOSS Supporter • Privacy Advocate • Future Cybersecurity Professional
+### 🧑‍💻 Student Developer • Linux Enthusiast • FOSS Supporter • Privacy Enthusiast • Future Cybersecurity Professional
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 > **I don't want to be the best. I just want to build good, useful software that people actually enjoy using.**
-
-🇦🇺 Australia • 🐧 Linux • 📱 Android • 🔒 Privacy • 🌎 FOSS • 🔐 Cybersecurity • 🎮 Gaming
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 I'm **Ansh**, a student developer from **Australia** who is into technology, Linux, Android, privacy, cybersecurity, FOSS, gaming, and software development.
 
-I love experimenting with technology, customizing my devices, learning how systems work, and turning random ideas into things that actually exist.
+I like experimenting with technology, customizing my devices, learning how systems work, and turning random ideas into projects that actually exist.
 
-I especially enjoy:
-
-* 🐧 Linux and system customization
-* 📱 Android, AOSP, rooting and custom ROMs
-* 🔒 Privacy and degoogling
-* 🌎 FOSS and open-source software
-* 🔐 Cybersecurity
-* 💻 Programming and system tools
-* 🖥️ Terminal-based software
-* 🎮 Gaming and emulation
-* 🤖 AI
-* 🧪 Breaking things and figuring out why they broke
-
-I'm still learning, but that's honestly one of the best parts.
+I especially enjoy building **useful tools**, messing around with Linux, exploring Android, and learning by breaking things and figuring out how to fix them.
 
 ---
 
-## 🧰 My Tech Stack
+## 🛠️ Languages & Technologies
 
-### 💻 Languages
+### 💻 Programming & Web
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a> <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a> <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a> <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a> <a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></a> <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></a> <a href="https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/scripting-articles/d1et7d7c(v=vs.84)"><img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript"></a> <a href="https://www.sql.org/"><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+<p>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+</p>
 
-### 🛠️ Tools & Platforms
+### 🐚 Shell & Scripting
 
-<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a> <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a> <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"></a> <a href="https://gcc.gnu.org"><img src="https://img.shields.io/badge/GCC-717171?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC"></a> <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a> <a href="https://archlinux.org"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"></a> <a href="https://kde.org/plasma-desktop/"><img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Plasma"></a> <a href="https://termux.dev"><img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white" alt="Termux"></a>
+<p>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"></a>
+<a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></a>
+<a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd"><img src="https://img.shields.io/badge/Batch-111111?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Batch"></a>
+<a href="https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa383235(v=vs.85)"><img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript"></a>
+</p>
 
----
+### 🐧 Systems & Platforms
 
-## 🧠 What I'm Learning
-
-I'm learning by actually building things instead of just watching tutorials.
-
-### 💻 Programming
-
-* C
-* C++
-* C#
-* Python
-* Java
-* HTML
-* CSS
-* JavaScript
-* Bash
-* PowerShell
-* VBScript
-* SQL
-
-I jump between languages depending on what I'm trying to build.
-
-Sometimes I need C.
-
-Sometimes Python makes more sense.
-
-Sometimes I'm just messing around with a shell script at 2 AM.
-
-That's part of the fun.
+<p>
+<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+<a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+</p>
 
 ---
 
-# 🐧 Linux
+## 🚀 What I'm Into
+
+* 🐧 **Linux & system customization**
+* 🏹 **Arch Linux**
+* 📱 **Android & AOSP**
+* 🔓 **Rooting & Android customization**
+* 🧩 **Custom ROMs**
+* 🛠️ **microG**
+* 🧹 **DeGoogling**
+* 🔒 **Privacy**
+* 🌎 **FOSS & open source**
+* 🔐 **Cybersecurity**
+* 🌐 **Networking**
+* ⌨️ **Terminal software**
+* 🧪 **Experimenting with technology**
+* 🎮 **Gaming**
+* 💻 **Software development**
+* 🤖 **AI**
+* 🛠️ **Building useful tools**
+
+---
+
+## 🐧 Linux
 
 Linux is a huge part of what I enjoy.
 
 I like having control over my operating system and actually understanding what's happening underneath the desktop.
 
-### Things I enjoy
+I'm especially into:
 
 * 🏹 Arch Linux
-* 💙 KDE Plasma
 * ⌨️ Terminal workflows
 * 🐚 Shell scripting
 * 📦 Package management
 * 🛠️ System utilities
-* ⚙️ Customization
-* 🖥️ Desktop customization
+* ⚙️ System customization
 * 🔧 Troubleshooting
-* 🧪 Experimenting with different Linux setups
-* 💻 Building CLI tools
+* 🧪 Experimenting with different setups
+* 💻 Building Linux software
 
-Linux lets me actually **learn how my computer works** instead of hiding everything behind a UI.
+I don't just want to **use** Linux.
+
+I want to understand it.
 
 ---
 
-# 📱 Android
+## 📱 Android
 
-Android is another massive interest of mine.
+Android is another major part of my tech interests.
 
-I like exploring Android beyond the standard experience and understanding what is happening underneath the UI.
+I enjoy going beyond the normal Android experience and experimenting with the operating system itself.
 
 I'm interested in:
 
 * 📱 Android
 * 🧩 AOSP
 * 🔧 Custom ROMs
-* 🔓 Bootloaders
-* 🛠️ Rooting
-* 🧪 GSI experimentation
-* 📦 FOSS Android apps
-* ⚙️ System customization
+* 🔓 Rooting
+* 🛠️ Magisk
+* 🧩 microG
+* 🧹 DeGoogling
+* ⚙️ System modification
+* 🧪 Android experimentation
 * 🔐 Android security
-* 🖥️ Android/Linux internals
-* 🎨 Theming
-* 🔋 System optimization
-* 🧩 Magisk
-* 🔧 Shizuku
-* 📱 microG
-* 🧹 Debloating
-* 🌎 Degoogling
+* 🎨 Device customization
+* 🛠️ Shizuku
+* 🔌 ADB
+* 📦 FOSS Android apps
 
-I like pushing devices beyond their default configuration and learning what they can actually do.
+I like having more control over the devices I own and being able to choose how they work.
 
 ---
 
-# 🔒 Privacy
+## 🔒 Privacy
 
-<img src="https://media.tenor.com/mn2w5R6Wc7AAAAAC/privacy-sejaprivacy.gif" align="right" width="200" alt="Privacy">
+<img src="https://media.tenor.com/5T7rJYlY9qEAAAAC/privacy-privacy-is-a-right.gif" align="right" width="300">
 
-Privacy matters to me.
+### **Privacy is a universal right.**
 
-But I'm not the type of person who thinks **everything must be FOSS or nothing**.
+Privacy is important to me, but I also believe in **balance**.
 
-I prefer a **balanced approach**.
+I'm not trying to make technology so private that using it becomes a massive pain.
 
-If an open-source alternative works well, I'll happily use it.
+I prefer a practical approach:
 
-If a proprietary application is significantly better, necessary, or simply makes life easier, I'm okay with using it.
+* 🔒 Use privacy-friendly software where it makes sense
+* 🌎 Prefer FOSS when there's a good option
+* 🧩 Use non-FOSS software when it genuinely works better for the job
+* 🚫 Reduce unnecessary tracking
+* 🛡️ Keep important data protected
+* ⚖️ Balance privacy with convenience
+* 🧠 Understand what software is actually doing
+* 🛠️ Keep control over my devices
 
-### My approach
+**Privacy shouldn't mean making your entire life harder.**
 
-* 🔒 Reduce unnecessary tracking
-* 🛡️ Protect personal data
-* 🌎 Prefer privacy-friendly software
-* 🧩 Use FOSS where it makes sense
-* ⚖️ Keep proprietary software when it is genuinely useful
-* 🧠 Understand what I'm installing
-* 🚫 Avoid unnecessary data collection
-* 📱 Debloat when practical
-* 🔐 Use privacy tools without making my life miserable
-
-### I believe:
-
-> **Privacy is important, but privacy shouldn't make technology unnecessarily painful to use.**
-
-I want **control**, not inconvenience for the sake of inconvenience.
+Good technology should give people **choice**.
 
 ---
 
-# 🌎 FOSS & Open Source
+## 🌎 FOSS & Open Source
 
-FOSS is a big part of what I care about.
+FOSS is something I really care about.
 
 I like software that people can inspect, learn from, improve, modify, and share.
 
@@ -179,22 +169,24 @@ I like software that people can inspect, learn from, improve, modify, and share.
 * 📚 Learning from source code
 * 🤝 Collaboration
 * 🌎 Open development
+* 🔒 User control
 * 🧠 Sharing knowledge
-* 🔒 Greater user control
 
-But I'm also realistic.
+But I'm not a **"everything must be FOSS or it's garbage"** person.
 
-I don't reject software purely because it isn't open source.
+If a proprietary application is significantly better for something I actually need, I'll use it.
 
-**The best tool is the one that works well for the job while respecting the user as much as possible.**
+**FOSS when practical. Non-FOSS when useful. Privacy where it matters.**
+
+That's the balance I prefer.
 
 ---
 
-# 🔐 Cybersecurity
+## 🔐 Cybersecurity
 
 Cybersecurity is one of my biggest long-term interests.
 
-I'm interested in understanding how operating systems, networks, software, and devices work so I can eventually understand security at a much deeper level.
+I'm interested in understanding how computers, operating systems, networks, and software work so I can eventually understand security at a much deeper level.
 
 I'm especially interested in:
 
@@ -209,36 +201,94 @@ I'm especially interested in:
 * 🔒 Privacy
 * 📱 Android security
 
-My goal isn't to pretend I already know everything.
+I'm still learning, so my goal isn't to pretend I know everything.
 
-It's to keep learning until I actually understand it.
-
----
-
-# 🤖 AI
-
-AI is another area I'm experimenting with.
-
-I'm interested in:
-
-* 🤖 AI assistants
-* 🧠 Local AI
-* 🔌 APIs
-* 🛠️ AI-powered tools
-* 💻 Integrating AI into software
-* 🔒 Privacy-friendly AI
-* 🧪 Experimenting with different models
-* 🌐 Web/API integrations
-
-I especially like the idea of building AI into useful tools instead of making AI just for the sake of saying something has AI.
+It's to **actually understand it**.
 
 ---
 
-# 🎮 Gaming
+## 🧠 How I Learn
+
+I learn best by actually building things.
+
+I like taking an idea and seeing where it goes instead of only following tutorials.
+
+```text
+        💡 Idea
+           │
+           ▼
+        🛠️ Build
+           │
+           ▼
+     💥 Something breaks
+           │
+           ▼
+      🔎 Investigate
+           │
+           ▼
+        🔧 Fix it
+           │
+           ▼
+       ⚙️ Improve
+           │
+           ▼
+        🧠 Learn
+           │
+           └──────────────↻
+```
+
+Sometimes the result is great.
+
+Sometimes it completely falls apart.
+
+Either way, I learned something.
+
+---
+
+## 🛠️ What I Like Building
+
+I enjoy software that is:
+
+* 💡 Useful
+* 🧠 Interesting
+* 🛠️ Practical
+* ⚡ Lightweight
+* 🔒 Privacy-friendly
+* 🌎 Open source
+* 🧪 Experimental
+* 🖥️ Linux-friendly
+* ⌨️ Terminal-friendly
+
+I especially like smaller tools that solve actual problems without adding unnecessary complexity.
+
+---
+
+## 💭 My Software Philosophy
+
+I don't want to make software just so I can say I made it.
+
+I want my projects to actually be **good**.
+
+That means I care about:
+
+* ✨ User experience
+* ⚡ Performance
+* 🧹 Simplicity
+* 🔒 Privacy
+* 🛠️ Reliability
+* 📚 Documentation
+* 🌎 Open source
+* 🧠 Solving real problems
+
+I'd rather build something small that people genuinely find useful than something massive that nobody needs.
+
+---
+
+## 🎮 Gaming
 
 I'm a gamer too.
 
-Gaming helped make computers and technology interesting to me in the first place.
+Gaming was one of the things that made computers and technology interesting to me.
 
 I enjoy:
 
@@ -250,127 +300,25 @@ I enjoy:
 * 🛠️ Experimenting with games
 * 💻 Making games
 
-I also like building games because it's a fun way to combine programming and creativity.
+I also like building games because it's a fun way to combine programming with creativity.
 
 ---
 
-# 🛠️ What I Like Building
-
-I like software that is:
-
-* 💡 Useful
-* 🧠 Interesting
-* 🛠️ Practical
-* ⚡ Lightweight
-* 🔒 Privacy-friendly
-* 🌎 Open source
-* 🧪 Experimental
-* 🎮 Fun
-* 🖥️ Terminal-friendly
-* 🐧 Linux-friendly
-
-I especially like small tools that solve actual problems without adding a massive amount of unnecessary stuff.
-
----
-
-# 🚀 My Projects
-
-Some of the projects I've worked on include:
-
-### 🛠️ SysKit
-
-A multi-language system toolkit designed around system information, diagnostics, maintenance, networking, storage, utilities, and more.
-
-Built across multiple languages and environments.
-
-### 🤖 AI Projects
-
-I've also experimented with AI applications, assistants, APIs, and different ways of integrating AI into software.
-
-### 🎮 Games
-
-I've built and experimented with small games and game-related projects.
-
-### 🐧 Linux Tools
-
-I enjoy making small Linux utilities, terminal tools, system scripts, and experiments.
-
----
-
-# 🧠 How I Learn
-
-I learn best by actually building things.
-
-My favourite development cycle is basically:
-
-```text
-        💡 Idea
-           │
-           ▼
-        🛠️ Build
-           │
-           ▼
-        💥 Something breaks
-           │
-           ▼
-       🔎 Investigate
-           │
-           ▼
-        🔧 Fix it
-           │
-           ▼
-       ⚙️ Improve it
-           │
-           ▼
-        🧠 Learn
-           │
-           └───────────↻
-```
-
-Sometimes the result is great.
-
-Sometimes it completely falls apart.
-
-Either way, I learned something.
-
----
-
-# 💭 What I Want From My Software
-
-I don't want to make software just so I can say I made it.
-
-I want my projects to actually be **good and useful**.
-
-That means I care about:
-
-* ✨ User experience
-* ⚡ Performance
-* 🧹 Simplicity
-* 🔒 Privacy
-* 🛠️ Reliability
-* 📚 Documentation
-* 🌎 Open source
-* 🧠 Solving actual problems
-
-I'd rather have a small project that people genuinely find useful than something huge that nobody needs.
-
----
-
-# 🧪 Experimentation
+## 🧪 Experimentation
 
 One of my favourite parts of technology is experimenting.
 
 I like:
 
-* Trying new operating systems
-* Testing different configurations
-* Modifying Android
+* Trying software I've never used
+* Testing operating systems
+* Changing configurations
+* Customizing devices
+* Testing different ROMs
 * Exploring Linux
-* Building random tools
-* Testing software
-* Learning why something works
-* Learning why something doesn't work
-* Turning experiments into projects
+* Playing around with code
+* Figuring out why something works
+* Figuring out why something **doesn't** work
 
 Sometimes the experiment becomes a project.
 
@@ -380,93 +328,129 @@ Both are useful.
 
 ---
 
-# 🎯 Goals
+## 🧰 My Development Setup
 
-## 📚 Learning Goals
+<p align="center">
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"></a>
+<a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC"></a>
+</p>
 
-* 🧠 Keep improving as a developer
+My main development environment is **VS Code on Linux**.
+
+I enjoy working from the terminal and building projects directly on my own system.
+
+---
+
+## 📚 What I'm Learning
+
+* 🧠 C
+* 🐍 Python
+* ☕ Java
+* 🌐 Web development
+* 🐚 Shell scripting
+* 🪟 PowerShell
+* 📜 VBScript
+* 🐧 Linux internals
+* 🌐 Networking
+* 🔐 Cybersecurity
+* 📱 Android internals
+* 🧩 AOSP
+* 🛠️ Software design
+
+I'm constantly adding new things to that list.
+
+---
+
+## 🎯 Goals
+
+### 📚 Learning Goals
+
+* 🧠 Become a better developer
 * 🐧 Understand Linux more deeply
 * 📱 Learn more about Android internals
-* 🔐 Learn cybersecurity fundamentals
-* 🌐 Learn more about networking
+* 🔐 Learn cybersecurity properly
+* 🌐 Improve my networking knowledge
 * 🛠️ Improve software design
-* 🤝 Become more involved in FOSS
-* 💻 Become better at systems programming
-* 🤖 Learn more about AI
+* 🌎 Become more involved with FOSS
+* 💻 Build more useful projects
 
-## 🚀 Long-Term Goals
+### 🚀 Long-Term
 
 I don't need to be the "best programmer."
 
-I just want to become **good enough to build software I'm proud of**.
+I just want to become **good enough to build software I'm genuinely proud of**.
 
 ```text
-      Keep learning
-           ↓
-    Build useful things
-           ↓
-       Improve them
-           ↓
-       Share them
-           ↓
-       Help people
-           ↓
-  Learn from other people
-           ↓
-    Build something better
+       Keep learning
+            ↓
+       Build useful things
+            ↓
+        Improve them
+            ↓
+         Share them
+            ↓
+         Help people
+            ↓
+    Learn from other people
+            ↓
+      Build something better
 ```
 
 ---
 
-# 🧭 My Philosophy
+## ❤️ Things I Care About
 
-> **Build it. Break it. Understand it. Improve it.**
+### 🐧 Linux
 
-I don't just want to use technology.
+Control over my computer and understanding how it works.
 
-I want to understand it.
+### 📱 Android
 
-I want to know what happens underneath the interface, experiment with systems, learn from mistakes, and eventually build things myself.
+Customizing devices, exploring AOSP, rooting, microG, and pushing Android beyond the stock experience.
 
----
+### 🔒 Privacy
 
-# ⚖️ FOSS vs Proprietary
+Protecting users without making technology unnecessarily difficult to use.
 
-I'm not an "FOSS at all costs" person.
+### 🌎 FOSS
 
-I like FOSS.
+Open software, transparency, learning, and collaboration.
 
-I support open source.
+### 🔐 Cybersecurity
 
-I value privacy.
+Understanding how systems work and how they can be protected.
 
-But I also want technology to be **practical**.
+### 🎮 Gaming
 
-If a proprietary application provides something I need and the alternative would make my life significantly harder, I'll use it.
+Having fun with technology and using games as another way to learn and create.
 
-My goal is:
+### 🛠️ Software
 
-```text
-             🔒 Privacy
-                │
-                │
-        🌎 FOSS ─┼─ ⚙️ Practicality
-                │
-                │
-             🧑‍💻 Usability
-```
-
-### Basically:
-
-**Use FOSS when it makes sense.
-Use proprietary software when it makes sense.
-Know what you're giving up either way.**
+Building things that solve actual problems.
 
 ---
 
-# 🤝 Open Source
+## 🌱 Still Growing
 
-I want to become more involved with the FOSS community over time.
+I'm still learning.
+
+I'm still experimenting.
+
+I'm still figuring out exactly where technology will take me.
+
+And I'm completely fine with that.
+
+I don't need to know everything.
+
+I just want to keep learning, keep building, and keep improving.
+
+---
+
+## 🤝 Open Source
+
+I want to become more involved with the open-source community over time.
 
 I want to:
 
@@ -478,98 +462,25 @@ I want to:
 * 🧠 Help other people learn
 * 💡 Turn ideas into useful software
 
-I'm still learning.
-
-That's part of the journey.
+I'm still learning, but that's part of the journey.
 
 ---
 
-# 📚 Always Learning
+## 🧭 My Philosophy
 
-Technology never stops changing.
+> **Build it. Break it. Understand it. Improve it.**
 
-There's always another:
+I don't just want to use technology.
 
-* 🐧 Linux project
-* 📱 Android feature
-* 🔐 Security concept
-* 🛠️ Programming technique
-* 🌎 FOSS project
-* 💻 Operating system
-* 🤖 AI idea
-* 🎮 Game
-* 🧪 Experiment
-* 💡 Random thing to try at 2 AM
+I want to understand it.
 
-And that's one of the reasons I love technology.
-
-There's always something else to learn.
+I want to know what happens underneath the interface, experiment with systems, learn from mistakes, and eventually build things myself.
 
 ---
 
-# ❤️ Things I Care About
+## 🔗 Find Me
 
-### 🐧 Linux
-
-Having control over my computer and understanding how it works.
-
-### 📱 Android
-
-Customizing devices, rooting, exploring AOSP, custom ROMs, microG, and pushing devices beyond their defaults. 🚀
-
-### 🔒 Privacy
-
-Giving people more control over their data and technology.
-
-### 🌎 FOSS
-
-Software that people can inspect, learn from, modify, and share.
-
-### 🔐 Cybersecurity
-
-Learning how systems work and how they can be protected.
-
-### 🎮 Gaming
-
-Having fun with technology and using games as another way to learn and create.
-
-### 🛠️ Software
-
-Building things that are actually useful instead of making software just for the sake of it.
-
----
-
-# 🌱 Still Growing
-
-I'm still learning.
-
-I'm still experimenting.
-
-I'm still figuring out exactly where technology will take me.
-
-And I'm okay with that.
-
-I don't need to be the best.
-
-I just want to keep getting better, make useful things, and enjoy the process.
-
----
-
-# 🏷️ Interests
-
-`#Linux` `#Android` `#AOSP` `#ArchLinux` `#KDE`
-
-`#FOSS` `#OpenSource` `#Privacy` `#Cybersecurity`
-
-`#Programming` `#Terminal` `#Systems` `#AI`
-
-`#Gaming` `#Technology` `#GitHub`
-
----
-
-# 🔗 Find Me
-
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/anshlabs716">
 <img src="https://img.shields.io/badge/GitHub-anshlabs716-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -579,78 +490,53 @@ I just want to keep getting better, make useful things, and enjoy the process.
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<a href="https://orcid.org/0009-0008-9904-9651">
-<img src="https://img.shields.io/badge/ORCID-0009--0008--9904--9651-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
-</a>
-
-<a href="https://www.tiktok.com/@ansh.bhatia7?lang=en">
+<a href="https://www.tiktok.com/@ansh.bhatia7">
 <img src="https://img.shields.io/badge/TikTok-@ansh.bhatia7-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 
 <a href="https://discord.gg/yNsPvk9b">
-<img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
 <a href="https://soundcloud.com/ansh-bhatia-216864160">
-<img src="https://img.shields.io/badge/SoundCloud-Listen-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+<img src="https://img.shields.io/badge/SoundCloud-Profile-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
 </a>
 
-<a href="https://archlinux.org">
+<a href="https://archlinux.org/">
 <img src="https://img.shields.io/badge/Arch%20Linux-User-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
 </a>
 
-</div>
+</p>
 
 ---
 
-# 📊 Tech Snapshot
+## 📊 Tech Stack
 
-<div align="center">
+<p align="center">
 
-| Area           | Interests                                 |
-| -------------- | ----------------------------------------- |
-| 🐧 OS          | Linux / Arch Linux                        |
-| 📱 Mobile      | Android / AOSP / Custom ROMs              |
-| 🔧 Android     | Root / Magisk / microG / Shizuku          |
-| 🔒 Privacy     | Degoogling / Privacy tools / User control |
-| 🌎 Open Source | FOSS / GitHub / Community                 |
-| 💻 Programming | C / C++ / C# / Python / Java              |
-| 🌐 Web         | HTML / CSS / JavaScript                   |
-| 🐚 Shell       | Bash / PowerShell / VBScript              |
-| 🔐 Security    | Linux / Android / Defensive security      |
-| 🤖 AI          | AI tools / APIs / Assistants              |
-| 🎮 Gaming      | PC / Console / Mobile / Emulation         |
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 
-</div>
-
----
-
-# 🧑‍💻 Current Mindset
-
-```text
-       Don't just use technology.
-                  ↓
-         Understand it.
-                  ↓
-          Experiment with it.
-                  ↓
-            Break it.
-                  ↓
-            Fix it.
-                  ↓
-           Build with it.
-                  ↓
-            Share it.
-```
+</p>
 
 ---
 
 <div align="center">
 
-### 🐧 Linux • 📱 Android • 🔒 Privacy • 🔐 Security • 🌎 FOSS • 🤖 AI • 🎮 Gaming
+### 🐧 Linux • 📱 Android • 🔒 Privacy • 🔐 Security • 🌎 FOSS • 💻 Development • 🎮 Gaming
 
-# **Build useful things. Keep learning. Have fun.**
-
-### 🚀 Build it. Break it. Understand it. Improve it.
+## **Build useful things. Keep learning. Have fun.**
 
 </div>
