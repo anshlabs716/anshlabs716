@@ -4,9 +4,12 @@
 
 ### 🧑‍💻 Student Developer • Linux Enthusiast • FOSS Supporter • Privacy Enthusiast • Future Cybersecurity Professional
 
-https://seeklogo.com/free-vector-logos/open-source
-https://seeklogo.com/free-vector-logos/android
-https://seeklogo.com/free-vector-logos/linux 
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/69f077f3-5705-4ca7-a308-216f86dcb942" />
+
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/a4a79df9-b15e-45fa-a63a-c5fab11d0af1" />
+
+<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/fbb6fadd-f682-4b84-87bb-197a16a7c97b" />
+ 
 
 > **I don't want to be the best. I just want to build good, useful software that people actually enjoy using.**
 
