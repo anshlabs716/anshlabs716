@@ -5,42 +5,74 @@
 ### 🧑‍💻 Student Developer • Linux Enthusiast • FOSS Supporter • Privacy Enthusiast • Future Cybersecurity Professional
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC">
 </p>
 
 <br>
 
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/69f077f3-5705-4ca7-a308-216f86dcb942" />
-
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/a4a79df9-b15e-45fa-a63a-c5fab11d0af1" />
-
-<img width="320" height="320" alt="image" src="https://github.com/user-attachments/assets/fbb6fadd-f682-4b84-87bb-197a16a7c97b" />
+<img width="320" height="320" alt="Linux" src="https://github.com/user-attachments/assets/69f077f3-5705-4ca7-a308-216f86dcb942" />
+&nbsp;&nbsp;&nbsp;
+<img width="320" height="320" alt="Android" src="https://github.com/user-attachments/assets/a4a79df9-b15e-45fa-a63a-c5fab11d0af1" />
+&nbsp;&nbsp;&nbsp;
+<img width="320" height="320" alt="Open Source" src="https://github.com/user-attachments/assets/fbb6fadd-f682-4b84-87bb-197a16a7c97b" />
 
 <br><br>
 
 > **I don't want to be the best. I just want to build good, useful software that people actually enjoy using.**
 
 </div>
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+
+<a href="https://github.com/anshlabs716">
+<img src="https://img.shields.io/badge/GitHub-anshlabs716-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:bhatiaansh716@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.tiktok.com/@ansh.bhatia7">
+<img src="https://img.shields.io/badge/TikTok-@ansh.bhatia7-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://discord.gg/yNsPvk9b">
+<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://soundcloud.com/ansh-bhatia-216864160">
+<img src="https://img.shields.io/badge/SoundCloud-Profile-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+</a>
+
+</p>
 
 ---
 
@@ -51,6 +83,34 @@ I'm **Ansh**, a student developer from **Australia** who is into technology, Lin
 I like experimenting with technology, customizing my devices, learning how systems work, and turning random ideas into projects that actually exist.
 
 I especially enjoy building **useful tools**, messing around with Linux, exploring Android, and learning by breaking things and figuring out how to fix them.
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 💻 Programming & Web
+
+* **C**
+* **Python**
+* **Java**
+* **HTML**
+* **CSS**
+* **JavaScript**
+
+### 🐚 Shell & Scripting
+
+* **Bash**
+* **PowerShell**
+* **VBScript**
+
+### 🧰 Tools & Environment
+
+* **VS Code**
+* **Git**
+* **GCC**
+* **Linux**
+* **Arch Linux**
+* **Android**
 
 ---
 
@@ -129,7 +189,11 @@ I like having more control over the devices I own and being able to choose how t
 
 ## 🔒 Privacy
 
-<img src="https://media.tenor.com/5T7rJYlY9qEAAAAC/privacy-privacy-is-a-right.gif" align="right" width="300">
+<div align="right">
+
+<img src="https://media.tenor.com/5T7rJYlY9qEAAAAC/privacy-privacy-is-a-right.gif" width="300" alt="Privacy is a universal right">
+
+</div>
 
 ### **Privacy is a universal right.**
 
@@ -328,15 +392,32 @@ Both are useful.
 
 ## 🧰 My Development Setup
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">   <img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC">
-
-</p>
-
 My main development environment is **VS Code on Linux**.
 
 I enjoy working from the terminal and building projects directly on my own system.
+
+<p align="center">
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://archlinux.org/">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://gcc.gnu.org/">
+<img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC">
+</a>
+
+</p>
 
 ---
 
@@ -405,7 +486,7 @@ Control over my computer and understanding how it works.
 
 ### 📱 Android
 
-Customizing devices, exploring AOSP, rooting, microG, and pushing Android beyond the stock experience.
+Customizing devices, exploring AOSP, rooting, microG, and pushing Android beyond the stock experience. 🚀
 
 ### 🔒 Privacy
 
@@ -472,38 +553,6 @@ I don't just want to use technology.
 I want to understand it.
 
 I want to know what happens underneath the interface, experiment with systems, learn from mistakes, and eventually build things myself.
-
----
-
-## 🔗 Find Me
-
-<p align="center">
-
-<a href="https://github.com/anshlabs716">
-<img src="https://img.shields.io/badge/GitHub-anshlabs716-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>&nbsp;&nbsp;
-
-<a href="mailto:bhatiaansh716@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>&nbsp;&nbsp;
-
-<a href="https://www.tiktok.com/@ansh.bhatia7">
-<img src="https://img.shields.io/badge/TikTok-@ansh.bhatia7-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-</a>&nbsp;&nbsp;
-
-<a href="https://discord.gg/yNsPvk9b">
-<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>&nbsp;&nbsp;
-
-<a href="https://soundcloud.com/ansh-bhatia-216864160">
-<img src="https://img.shields.io/badge/SoundCloud-Profile-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
-</a>&nbsp;&nbsp;
-
-<a href="https://archlinux.org/">
-<img src="https://img.shields.io/badge/Arch%20Linux-User-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
-</a>
-
-</p>
 
 ---
 
