@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://tenor.com/view/sejaprivacy-privacy-privacybr-gif-8585763700334393019" width="100%">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=50&duration=500&pause=2000&color=1CA780&width=700&height=100&lines=%3E+G%27day+%F0%9F%91%8B%F0%9F%91%8B;%3E+Welcome+to+my+GitHub+%F0%9F%9A%80;%3E+Linux.+Android.+FOSS.+Security." alt="Typing animation">
