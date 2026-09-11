@@ -1,23 +1,20 @@
 <div align="center">
 
-# 👋 Hey, I'm Ansh
-
-### 🧑‍💻 Student Developer • Linux Enthusiast • FOSS Supporter • Privacy Advocate • Future Cybersecurity Professional
-
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=1CA780&center=true&vCenter=true&width=750&height=60&lines=Linux+%7C+Android+%7C+FOSS+%7C+Cybersecurity;C+%7C+Python+%7C+Java+%7C+Shell+%7C+Web;Building+things+I+actually+want+to+use;Build+it.+Break+it.+Understand+it.+Improve+it.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=42&duration=2500&pause=1000&color=1CA780&center=true&vCenter=true&width=850&height=100&lines=%3E+G%27day+%F0%9F%91%8B;%3E+Welcome+to+my+GitHub+%F0%9F%9A%80;%3E+Linux+%7C+Android+%7C+FOSS+%7C+Privacy;%3E+Building+things+that+actually+work" alt="Typing animation">
 
-<br>
+# 👋 Hey, I'm Ansh
+
+### 🧑‍💻 Student Developer • Linux Enthusiast • Android Tinkerer • FOSS Supporter • Privacy Advocate • Future Cybersecurity Professional
+
+> **Build it. Break it. Understand it. Improve it.**
 
 <a href="https://github.com/anshlabs716">
 <img src="https://img.shields.io/badge/GitHub-anshlabs716-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://archlinux.org">
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-</a>
-<a href="https://opensource.org">
-<img src="https://img.shields.io/badge/FOSS-Open_Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+<a href="mailto:bhatiaansh716@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -26,103 +23,96 @@
 
 ## 🧠 About Me
 
-I'm **Ansh**, a student developer from **Australia** who is heavily into technology.
+I'm **Ansh**, a student developer from **Australia** who is seriously into technology.
 
-I'm interested in **Linux, Android, AOSP, custom ROMs, privacy, FOSS, cybersecurity, programming, AI, gaming, and system-level experimentation**.
+I'm interested in **Linux, Android, privacy, FOSS, cybersecurity, programming, AI, gaming, and systems**.
 
-I like taking random ideas and turning them into actual projects.
+I love experimenting with technology, customizing my devices, learning how systems work, and turning random ideas into actual projects.
 
-Sometimes they work.
+I learn best by **building things myself**.
 
-Sometimes they completely explode. 💀
+I don't want to just follow tutorials and copy someone else's code. I like taking an idea, building it, breaking it, figuring out why it broke, and then making it better.
 
-Either way, I learn something.
+Sometimes it works perfectly.
 
-> **I don't want to be the best. I just want to build good, useful software that people actually enjoy using.**
+Sometimes it explodes.
+
+Either way, I learned something.
 
 ---
 
-# 💻 Languages
+# 💻 Tech Stack
 
-<div align="center">
+## 🧑‍💻 Programming & Web
 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </a>
-
 <a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
-
 <a href="https://www.java.com/">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</a>
+## 🐚 Shell & Scripting
 
 <a href="https://www.gnu.org/software/bash/">
-<img src="https://img.shields.io/badge/Shell%2FBash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </a>
-
 <a href="https://learn.microsoft.com/en-us/powershell/">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+</a>
+<a href="https://learn.microsoft.com/en-us/previous-versions//bb978526(v=msdn.10)">
+<img src="https://img.shields.io/badge/VBScript-68217A?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript">
 </a>
 
-<a href="https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/scripting-articles/9bbdkx3k(v=vs.84)">
-<img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white">
-</a>
+## 🛠️ Tools & Platforms
 
-</div>
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</a>
+<a href="https://www.linux.org/">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+</a>
+<a href="https://archlinux.org/">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
+</a>
+<a href="https://kde.org/plasma-desktop/">
+<img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Plasma">
+</a>
+<a href="https://developer.android.com/">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+</a>
 
 ---
 
-# 🧰 Tech Stack & Tools
+# 🚀 What I'm Into
 
-<div align="center">
-
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</a>
-
-<a href="https://gcc.gnu.org/">
-<img src="https://img.shields.io/badge/GCC-717171?style=for-the-badge&logo=gnu&logoColor=white">
-</a>
-
-<a href="https://www.kernel.org/">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-
-<a href="https://archlinux.org/">
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-</a>
-
-<a href="https://www.android.com/">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-</a>
-
-<a href="https://www.gtk.org/">
-<img src="https://img.shields.io/badge/GTK-7FE719?style=for-the-badge&logo=gtk&logoColor=black">
-</a>
-
-<a href="https://termux.dev/">
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white">
-</a>
-
-</div>
+| 🧩 Area                | What I like                                          |
+| ---------------------- | ---------------------------------------------------- |
+| 🐧 **Linux**           | Arch, terminals, system tools, customization         |
+| 📱 **Android**         | AOSP, custom ROMs, rooting, microG                   |
+| 🔒 **Privacy**         | De-googling, privacy-friendly software, user control |
+| 🌎 **FOSS**            | Open-source software and communities                 |
+| 🔐 **Cybersecurity**   | Linux security, networking, systems                  |
+| 💻 **Programming**     | C, Python, Java, web, shell scripting                |
+| 🤖 **AI**              | AI tools, APIs, experimentation                      |
+| 🎮 **Gaming**          | PC, console, Android, emulation                      |
+| 🛠️ **Systems**        | Hardware, operating systems, diagnostics             |
+| 🧪 **Experimentation** | Breaking things and figuring out why                 |
 
 ---
 
@@ -130,70 +120,142 @@ Either way, I learn something.
 
 Linux is a huge part of what I enjoy.
 
-I like having control over my operating system and actually understanding what is happening underneath the interface.
+I like having control over my operating system instead of being forced into one specific workflow.
 
-### Things I enjoy
+I'm especially into:
 
-* 🏹 Arch Linux
+* 🏹 **Arch Linux**
 * ⌨️ Terminal workflows
-* 🐚 Shell scripting
+* 🐚 Bash scripting
 * 📦 Package management
+* ⚙️ System customization
 * 🛠️ System utilities
-* ⚙️ Customization
 * 🔧 Troubleshooting
-* 🧪 Experimenting with different Linux setups
 * 🖥️ Desktop customization
-* 💻 Building CLI tools
-* 🧠 Learning how Linux actually works
+* 🧪 Testing different setups
+* 🚀 Building Linux tools
 
-Linux lets me experiment instead of just being told how things are supposed to work.
+I don't just want to use my computer.
+
+I want to understand **how it actually works**.
 
 ---
 
 # 📱 Android
 
-Android is another massive interest of mine.
+Android is another massive part of my tech interests.
 
-I'm especially interested in what happens underneath the normal Android experience.
-
-### I'm interested in
-
-* 📱 Android
-* 🧩 AOSP
-* 🔧 Custom ROMs
-* 🛠️ Root
-* 📦 FOSS Android apps
-* ⚙️ System modification
-* 🔐 Android security
-* 🧪 ROM experimentation
-* 📱 Device customization
-* 🖥️ Android/Linux internals
-* 🚀 Pushing devices beyond the stock experience
-
-I like exploring what Android can actually do when you have more control over the device.
-
----
-
-# 🔒 Privacy & FOSS
-
-Privacy matters to me.
-
-I prefer software that respects the person using it and gives users control over their own technology.
+I enjoy exploring Android beyond the normal stock experience and learning what is happening underneath the UI.
 
 I'm interested in:
 
-* 🔐 Digital privacy
-* 🛡️ Security
-* 🌎 FOSS
-* 🔎 Transparency
-* 🚫 Reducing unnecessary tracking
-* 🐧 Privacy-friendly Linux software
-* 📱 Privacy-focused Android software
-* 🛠️ Open-source alternatives
-* 🧠 Understanding what software actually does
-* ⚙️ User control
+* 📱 Android
+* 🧩 AOSP
+* 🔧 **Rooting**
+* 🔓 Bootloader unlocking
+* 🛠️ Custom ROMs
+* 🧬 **microG**
+* 🧹 **De-googling**
+* 📦 FOSS Android apps
+* ⚙️ System customization
+* 🧪 ROM experimentation
+* 🔐 Android security
+* 🖥️ Android/Linux internals
+* 🛠️ ADB
+* 🔧 Shizuku
 
-One of my long-term goals is to become more involved with the **FOSS community**.
+I like being able to choose how my devices work instead of being completely locked into whatever configuration came from the manufacturer.
+
+---
+
+# 🔒 Privacy
+
+<div align="right">
+
+<a href="https://tenor.com/view/sejaprivacy-privacy-privacybr-gif-8585763700334393019">
+<img src="https://media.tenor.com/7M6J8z1q5S8AAAAC/privacy-privacy.gif" width="300" alt="Privacy is a universal right">
+</a>
+
+</div>
+
+## **Privacy is a universal right.**
+
+Privacy is important to me.
+
+But I'm also **realistic about it**.
+
+I don't believe privacy should mean making everyday technology unnecessarily difficult to use.
+
+I prefer a **balanced approach**.
+
+I like:
+
+* 🔒 Privacy-respecting software
+* 🛡️ Good security
+* 🌎 FOSS alternatives
+* 🧹 De-googling where practical
+* 🚫 Reducing unnecessary tracking
+* 🔎 Transparency
+* 🧠 Understanding what software does
+* ⚙️ Having control over my devices
+
+But I also use **non-FOSS software when it makes sense**.
+
+If proprietary software is significantly more useful, compatible, reliable, or convenient, I'm not going to reject it purely because it isn't open source.
+
+### ⚖️ My philosophy
+
+> **Privacy matters. FOSS matters. But practicality matters too.**
+
+I want more privacy and control **without making my life unnecessarily harder**.
+
+It's about finding the right balance.
+
+---
+
+# 🧹 De-Googling
+
+I'm interested in reducing unnecessary dependence on Google and other large ecosystems.
+
+That can include:
+
+* 🧬 microG
+* 📱 AOSP-based ROMs
+* 🌎 FOSS applications
+* 🔎 Alternative search engines
+* ☁️ Alternative cloud services
+* 📧 Alternative applications
+* 🛠️ Root-based customization
+* 🔧 System-level control
+
+But I'm **not trying to eliminate every proprietary service on Earth**.
+
+If something is genuinely useful and the trade-off is worth it, I'll use it.
+
+### 🎯 The goal
+
+> **Control — not inconvenience.**
+
+---
+
+# 🌎 FOSS & Open Source
+
+FOSS is one of the biggest things I care about in technology.
+
+I like the idea that software can be:
+
+* 🔍 Inspected
+* 🛠️ Modified
+* 📚 Learned from
+* 🤝 Improved
+* 🌎 Shared
+* 🔧 Adapted
+
+Open source is also one of the best ways for me to learn.
+
+Reading someone else's code can teach me things that a tutorial never could.
+
+My long-term goal is to become more involved with the **FOSS community** and contribute useful software of my own.
 
 ---
 
@@ -201,9 +263,9 @@ One of my long-term goals is to become more involved with the **FOSS community**
 
 Cybersecurity is one of my biggest long-term interests.
 
-I'm interested in understanding computers, operating systems, networks, and software properly before going deeper into security.
+I'm still learning, but I want to understand systems properly instead of just memorizing commands.
 
-### Areas I'm interested in
+I'm interested in:
 
 * 🐧 Linux security
 * 🌐 Networking
@@ -212,8 +274,9 @@ I'm interested in understanding computers, operating systems, networks, and soft
 * 🛡️ Defensive security
 * 🔎 Security research
 * 🧠 System architecture
-* 🧪 Controlled experimentation
-* 🔒 Privacy and security
+* 🧪 Controlled testing
+* 📱 Android security
+* 🔒 Privacy
 
 My goal isn't to pretend I know everything.
 
@@ -221,61 +284,31 @@ It's to keep learning until I actually understand it.
 
 ---
 
-# 🚀 Projects
+# 🎮 Gaming
 
-I enjoy building projects that solve actual problems.
+I'm a gamer too.
 
-## 🛠️ SysKit
+Gaming helped make computers and technology interesting to me in the first place.
 
-### Universal System Toolkit
+I enjoy:
 
-SysKit is a multi-language system toolkit for information, diagnostics, maintenance, networking, storage, utilities, and more.
+* 🎮 PC gaming
+* 🕹️ Console gaming
+* 📱 Mobile gaming
+* 🧩 Emulation
+* ⚙️ Game customization
+* 🛠️ Experimenting with games
+* 💻 Making games
 
-It currently has implementations in:
-
-`C` • `Bash` • `Python` • `Java`
-
-with Full, Lite, and GUI variants.
-
-<a href="https://github.com/anshlabs716/syskit">
-<img src="https://img.shields.io/badge/🚀_View_SysKit-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-### 🌦️ Weather Feature Credit
-
-The weather functionality in SysKit is **based on the `onNow` project by ShozanTheBozan**.
-
-Huge credit to **ShozanTheBozan** for the original work that inspired the weather feature.
-
-<a href="https://github.com/shozanthebozan/onNow">
-<img src="https://img.shields.io/badge/🌦️_ShozanTheBozan_onNow-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
----
-
-## 🤖 N30NC0R3_AI
-
-An experimental AI project exploring AI, automation, and software development.
-
-<a href="https://github.com/anshlabs716/N30NC0R3_AI">
-<img src="https://img.shields.io/badge/🤖_View_N30NC0R3_AI-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
----
-
-## 📦 More Projects
-
-I also work on smaller tools, games, utilities, experiments, and Linux projects.
-
-<a href="https://github.com/anshlabs716?tab=repositories">
-<img src="https://img.shields.io/badge/📦_View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+I like the technical side of gaming almost as much as actually playing.
 
 ---
 
 # 🧠 How I Learn
 
 I learn best by actually building things.
+
+My usual development loop:
 
 ```text
         💡 Idea
@@ -298,25 +331,25 @@ I learn best by actually building things.
            ▼
         🧠 Learn
            │
-           └──────────────↻
+           └───────────↻
 ```
 
-Sometimes the project works perfectly.
+Sometimes the result is amazing.
 
-Sometimes I spend hours wondering why something is broken.
+Sometimes it completely falls apart.
 
-Both count as learning. 💀
+Both are useful.
 
 ---
 
 # 🛠️ What I Like Building
 
-I like software that is:
+I like creating software that is:
 
 * 💡 Useful
-* ⚡ Lightweight
 * 🧠 Interesting
 * 🛠️ Practical
+* ⚡ Lightweight
 * 🔒 Privacy-friendly
 * 🌎 Open source
 * 🧪 Experimental
@@ -324,39 +357,56 @@ I like software that is:
 * 🖥️ Terminal-friendly
 * 🐧 Linux-friendly
 
-I especially like small tools that solve real problems without adding a ridiculous amount of unnecessary stuff.
+I especially like small tools that solve an actual problem without adding a massive amount of unnecessary complexity.
 
 ---
 
-# 🎮 Gaming
+# 💭 What I Want From My Software
 
-I'm a gamer too.
+I don't want to make software just so I can say I made it.
 
-Gaming is part of what made computers and technology interesting to me.
+I want my projects to actually be **good**.
 
-I enjoy:
+That means I care about:
 
-* 🎮 PC gaming
-* 🕹️ Console gaming
-* 📱 Mobile gaming
-* 🧩 Emulation
-* ⚙️ Game customization
-* 🛠️ Experimenting with games
-* 💻 Making games
+* ✨ User experience
+* ⚡ Performance
+* 🧹 Simplicity
+* 🔒 Privacy
+* 🛠️ Reliability
+* 📚 Documentation
+* 🌎 Open source
+* 🧠 Solving actual problems
+
+I'd rather have a small project that someone genuinely finds useful than something huge that nobody needs.
 
 ---
 
-# 🧪 Experimentation
+# 🚀 Projects
 
-One of my favourite parts of technology is experimenting.
+Some of the things I've worked on include:
 
-I like trying things I've never used before, changing configurations, testing software, breaking things, and figuring out why they work — or don't.
+### 🛠️ SysKit
 
-Sometimes the experiment becomes a project.
+A multi-language system toolkit with C, Bash, Python and Java implementations, plus a GTK interface.
 
-Sometimes it becomes a lesson.
+### 🤖 AI Projects
 
-Both are useful.
+Experiments with AI, APIs, assistants, and different models.
+
+### 🕹️ Games
+
+Small games and experiments built while learning programming.
+
+### 🐧 Linux Tools
+
+System utilities, terminal tools, scripts, and experiments.
+
+### 🧪 Random Experiments
+
+Because sometimes the best projects start with:
+
+> **"Wait... can I actually do that?"**
 
 ---
 
@@ -364,51 +414,36 @@ Both are useful.
 
 ## 📚 Learning Goals
 
-* 🧠 Keep improving as a developer
+* 🧠 Become a better developer
 * 🐧 Understand Linux more deeply
-* 📱 Learn more about Android internals
+* 📱 Learn Android internals
 * 🔐 Learn cybersecurity fundamentals
-* 🌐 Learn more about networking
-* 🛠️ Improve my software design
+* 🌐 Improve my networking knowledge
+* 🛠️ Improve software architecture
 * 🤝 Become more involved in FOSS
-* 🧪 Keep experimenting with different technologies
+* 💻 Build increasingly useful software
 
-## 🚀 Long-Term Goals
+## 🚀 Long-Term
 
-I don't need to become the "best programmer."
+I don't need to be the **best programmer**.
 
-I just want to become **good enough to build software I'm genuinely proud of**.
+I just want to become good enough to build software I'm genuinely proud of.
 
 ```text
-Keep learning
-      ↓
-Build useful things
-      ↓
-Improve them
-      ↓
-Share them
-      ↓
-Help people
-      ↓
-Learn from other people
-      ↓
-Build something better
+      Keep learning
+           ↓
+   Build useful things
+           ↓
+      Improve them
+           ↓
+       Share them
+           ↓
+       Help people
+           ↓
+   Learn from others
+           ↓
+   Build something better
 ```
-
----
-
-# ❤️ Things I Care About
-
-| Interest         | Why                                  |
-| ---------------- | ------------------------------------ |
-| 🐧 Linux         | Control and understanding            |
-| 📱 Android       | Customization and experimentation    |
-| 🔒 Privacy       | User control                         |
-| 🌎 FOSS          | Transparency and collaboration       |
-| 🔐 Cybersecurity | Understanding and protecting systems |
-| 🛠️ Software     | Building useful things               |
-| 🎮 Gaming        | Fun, creativity, and experimentation |
-| 🤖 AI            | Exploring new technology             |
 
 ---
 
@@ -424,15 +459,53 @@ I want to know what happens underneath the interface, experiment with systems, l
 
 ---
 
-# 🌱 Still Growing
+# 🤝 Open Source
+
+I want to become more involved with the FOSS community over time.
+
+I want to:
+
+* 🛠️ Build open-source software
+* 📚 Learn from existing projects
+* 🤝 Collaborate with developers
+* 🔧 Contribute improvements
+* 🌎 Share what I learn
+* 🧠 Help other people learn
+* 💡 Turn ideas into useful software
 
 I'm still learning.
 
-I'm still experimenting.
+That's part of the journey.
 
-I'm still figuring out exactly where technology will take me.
+---
 
-And that's part of the fun.
+# 🧪 Experimentation
+
+One of my favourite parts of technology is experimenting.
+
+I like:
+
+* Trying software I've never used
+* Testing operating systems
+* Changing configurations
+* Customizing devices
+* Exploring Android
+* Breaking Linux setups
+* Testing new programming ideas
+* Figuring out why something works
+* Figuring out why something **doesn't** work
+
+Sometimes the experiment becomes a project.
+
+Sometimes it becomes a lesson.
+
+Both are useful.
+
+---
+
+# 📚 Always Learning
+
+Technology never stops changing.
 
 There's always another:
 
@@ -447,23 +520,69 @@ There's always another:
 * 🧪 Experiment
 * 💡 Random thing to try at 2 AM
 
-to learn about.
+And that's one of the reasons I love technology.
+
+There's always something else to learn.
+
+---
+
+# ❤️ Things I Care About
+
+### 🐧 Linux
+
+Control over my computer and understanding how it works.
+
+### 📱 Android
+
+Customizing devices, exploring AOSP, rooting, custom ROMs, microG, and pushing devices beyond their default experience.
+
+### 🔒 Privacy
+
+Having more control over my data without making technology unnecessarily difficult to use.
+
+### 🌎 FOSS
+
+Software people can inspect, learn from, modify, and share.
+
+### 🔐 Cybersecurity
+
+Learning how systems work and how they can be protected.
+
+### 🎮 Gaming
+
+Having fun with technology and using games as another way to learn and create.
+
+### 🛠️ Software
+
+Building things that are actually useful.
+
+---
+
+# 🌱 Still Growing
+
+I'm still learning.
+
+I'm still experimenting.
+
+I'm still figuring out exactly where technology will take me.
+
+And I'm okay with that.
+
+I don't need to be the best.
+
+I just want to keep getting better, make useful things, and enjoy the process.
 
 ---
 
 # 🏷️ Interests
 
-`#Linux` `#Android` `#AOSP` `#ArchLinux`
+`#Linux` `#Android` `#AOSP` `#ArchLinux` `#KDE`
 
 `#FOSS` `#OpenSource` `#Privacy` `#Cybersecurity`
 
-`#C` `#Python` `#Java` `#JavaScript`
+`#Programming` `#Terminal` `#Systems` `#AI`
 
-`#Bash` `#PowerShell` `#VBScript`
-
-`#HTML` `#CSS` `#Terminal` `#Systems`
-
-`#AI` `#Gaming` `#Technology` `#GitHub`
+`#Gaming` `#Technology` `#GitHub`
 
 ---
 
@@ -472,32 +591,43 @@ to learn about.
 <div align="center">
 
 <a href="https://github.com/anshlabs716">
-<img src="https://img.shields.io/badge/GitHub-anshlabs716-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-
 <a href="mailto:bhatiaansh716@gmail.com">
-<img src="https://img.shields.io/badge/Email-bhatiaansh716%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-
 <a href="https://orcid.org/0009-0008-9904-9651">
-<img src="https://img.shields.io/badge/ORCID-0009--0008--9904--9651-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
 </a>
-
 <a href="https://www.tiktok.com/@ansh.bhatia7?lang=en">
-<img src="https://img.shields.io/badge/TikTok-@ansh.bhatia7-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
-
 <a href="https://discord.gg/yNsPvk9b">
-<img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-
 <a href="https://soundcloud.com/ansh-bhatia-216864160">
-<img src="https://img.shields.io/badge/SoundCloud-Listen-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">
+<img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+</a>
+<a href="https://archlinux.org/">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
 </a>
 
-<a href="https://archlinux.org">
-<img src="https://img.shields.io/badge/Arch_Linux-Visit-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
-</a>
+</div>
+
+---
+
+# 🧰 My Everyday Ecosystem
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/FOSS-2DA44E?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+<img src="https://img.shields.io/badge/Privacy-555555?style=for-the-badge&logo=protonmail&logoColor=white">
+<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white">
+<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white">
 
 </div>
 
@@ -505,10 +635,10 @@ to learn about.
 
 <div align="center">
 
-## 🐧 Linux • 📱 Android • 🔒 Privacy • 🔐 Security • 🌎 FOSS • 🎮 Gaming
+### 🐧 Linux • 📱 Android • 🔒 Privacy • 🔐 Security • 🌎 FOSS • 🎮 Gaming
 
-### **Build useful things. Keep learning. Have fun. 🚀**
+# **Build useful things. Keep learning. Have fun.**
 
-> **Build it. Break it. Understand it. Improve it.**
+> 🚀 **Build it. Break it. Understand it. Improve it.**
 
 </div>
