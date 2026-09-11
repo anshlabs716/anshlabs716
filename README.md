@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 Student Developer • Linux Enthusiast • FOSS Supporter • Privacy Enthusiast • Future Cybersecurity Professional
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+<img src="https://media.tenor.com/5T7rJYlY9qEAAAAC/privacy-privacy-is-a-right.gif" width="100%">
 
 > **I don't want to be the best. I just want to build good, useful software that people actually enjoy using.**
 
