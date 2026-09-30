@@ -409,9 +409,11 @@ I enjoy working from the terminal and building projects directly on my own syste
 </a>
 &nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux">&nbsp;&nbsp;
+<a href="https://mxlinux.org/">
+  <img src="https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux">
 </a>
 &nbsp;&nbsp;
+
 
 <a href="https://gcc.gnu.org/">
 <img src="https://img.shields.io/badge/GCC-000000?style=for-the-badge&logo=gnu&logoColor=white" alt="GCC">
