@@ -409,8 +409,7 @@ I enjoy working from the terminal and building projects directly on my own syste
 </a>
 &nbsp;&nbsp;
 
-<a href="https://archlinux.org/">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
+<img src="https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux">&nbsp;&nbsp;
 </a>
 &nbsp;&nbsp;
 
