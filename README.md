@@ -18,7 +18,8 @@
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux">
+<img src="https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux">&nbsp;&nbsp;
+
 </p>
 
 <p>
