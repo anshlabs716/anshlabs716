@@ -26,11 +26,6 @@
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript">
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
@@ -46,17 +41,21 @@
 
 ---
 
-## 🧑‍💻 Who Am I?
+# 🧑‍💻 Who Am I?
 
 I'm **Ansh**, an Australian developer who spends way too much time messing with **Android, Linux, FOSS, privacy, custom ROMs, and software**.
 
-I like projects that are useful, hackable, and actually fun to work on — especially when I can turn an idea into something people can use.
+I like building things that are **useful, hackable, lightweight, privacy-friendly, and actually fun to use**. I'm especially interested in taking an idea from a rough prototype to something that feels like a real project.
+
+I enjoy exploring how software works underneath the UI — from **Kotlin and Compose** to **ADB, system tools, ROMs, Linux terminals, and Android internals**.
+
+I'm also a big fan of experimenting. If there's a weird bug, an interesting project, or a piece of old software that could be improved, there's a good chance I'll end up poking at it. 🔧
 
 ---
 
-## 📱 Android Development 🎉
+# 📱 Android Development 🎉
 
-**Kotlin is my main language for Android development.**
+## **Kotlin is my main language for Android development.**
 
 I work with the Android stack from app code all the way down to device tooling:
 
@@ -69,64 +68,72 @@ I work with the Android stack from app code all the way down to device tooling:
 <img src="https://img.shields.io/badge/Material%203-6750A4?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3">
 </p>
 
-**Android tooling & platform work**
+## 🔧 Android Platform & Tooling
 
-AOSP · Android SDK · Gradle · ADB · Fastboot · Shizuku · microG · custom ROMs · rooting · system customization
+**AOSP** · **Android SDK** · **Gradle** · **Kotlin DSL** · **ADB** · **Fastboot** · **Shizuku** · **microG** · **custom ROMs** · **rooting** · **system customization**
 
-**Libraries & development**
+## 🧩 Android Libraries & Development
 
-Jetpack Compose · Material 3 · Coroutines · AndroidX · ViewModel · Room · XML · Kotlin DSL
+**Jetpack Compose** · **Material 3** · **AndroidX** · **Coroutines** · **ViewModel** · **Room** · **XML** · **Kotlin DSL**
 
-I enjoy building apps, experimenting with Android internals, customizing devices, and figuring out why something broke at 2 AM. 💀
-
----
-
-## 🛠️ My Stack
-
-### 💻 Languages
-Kotlin · C · Python · Java · HTML · CSS · JavaScript · Bash · PowerShell · VBScript
-
-### 📱 Android
-Android Studio · Android SDK · Gradle · Kotlin DSL · Jetpack Compose · Material 3 · AndroidX · Coroutines · Room · XML · AOSP · ADB · Fastboot · Shizuku · microG
-
-### 🐧 Linux & Systems
-Linux · MX Linux · Git · GCC · Terminal · ADB · Fastboot · Shell scripting
+I enjoy building apps, experimenting with Android internals, customizing devices, working with FOSS Android software, and figuring out why something broke at 2 AM. 💀
 
 ---
 
-## 🔥 What I'm Into
+# 🛠️ My Stack
+
+## 💻 Languages
+
+**Kotlin** · **C** · **Python** · **Java** · **HTML** · **CSS** · **JavaScript** · **Bash** · **PowerShell** · **VBScript**
+
+## 📱 Android
+
+**Android Studio** · **Android SDK** · **Gradle** · **Kotlin DSL** · **Jetpack Compose** · **Material 3** · **AndroidX** · **Coroutines** · **Room** · **XML** · **AOSP** · **ADB** · **Fastboot** · **Shizuku** · **microG**
+
+## 🐧 Linux & Systems
+
+**Linux** · **MX Linux** · **Git** · **GCC** · **Terminal** · **Shell scripting** · **ADB** · **Fastboot**
+
+---
+
+# 🔥 What I'm Into
 
 | 🧩 Area | ⚡ Stuff I Like |
 |---|---|
 | 📱 Android | Apps, AOSP, custom ROMs, rooting, de-Googling |
 | 🐧 Linux | System customization, terminals, Debian-based setups |
-| 🌎 FOSS | Open source, privacy-first software, self-hosted ideas |
+| 🌎 FOSS | Open source, privacy-first software, and community projects |
 | 🔒 Privacy | Minimal tracking, fewer cloud dependencies, de-Googled setups |
 | 🛠️ Projects | Useful tools, experiments, forks, fixing old code |
-| 🌐 Networking | Android networking, terminals, system tools |
-| 🤖 AI | Using AI to prototype, debug, experiment, and build |
-| 🎮 Gaming | Games, Linux gaming, random side projects |
+| 🌐 Networking | Android networking, terminals, and system tools |
+| 🤖 AI | Prototyping, debugging, experimenting, and building |
+| 🎮 Gaming | Games, Linux gaming, and random side projects |
 
 ---
 
-## ♻️ Open Source
+# ♻️ Open Source
 
 I like contributing to FOSS — and I especially like finding **inactive or abandoned projects with a genuinely good foundation** and giving them a second life instead of starting from zero.
 
-If the base is solid, I'll happily fork it, clean it up, modernize it, and build on top of it. 🚀
+If the base is solid, I'll happily **fork it, clean it up, modernize it, fix what needs fixing, and build on top of it**. 🚀
+
+I like the idea that good software doesn't have to disappear just because its original development stopped.
 
 ---
 
-## 🧠 How I Learn
+# 🧠 How I Learn
 
-**Build → Break → Investigate → Fix → Improve → Repeat**
+# **Build → Break → Investigate → Fix → Improve → Repeat**
 
-I learn best by actually making things and getting my hands dirty.  
-If something fails, that's usually where the interesting part starts.
+I learn best by actually making things and getting my hands dirty.
+
+If something fails, I don't just want the fix — I want to know **why it failed, what caused it, and how to make it better next time**.
+
+That's how I end up learning new frameworks, tools, operating systems, APIs, and random bits of system internals. 😭
 
 ---
 
-## 🎯 Where I'm Heading
+# 🎯 Where I'm Heading
 
 - 🚀 Become a stronger Android developer
 - 🧠 Go deeper into Kotlin & Android internals
@@ -134,6 +141,8 @@ If something fails, that's usually where the interesting part starts.
 - 🔐 Learn cybersecurity properly
 - 🌎 Contribute more to FOSS
 - 🛠️ Build software people actually find useful
+- 📱 Build bigger and better Android projects
+- 🌱 Keep improving instead of staying comfortable
 
 ---
 
