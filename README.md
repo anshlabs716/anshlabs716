@@ -1,15 +1,3 @@
-## 💻 Private Development
-
-Want me to develop something **privately for you**? Contact me.
-
-I can build a private project or custom software for you **at no cost**. Instead of payment, the fair deal is simple: you promote my GitHub repositories and projects **anywhere and however you want**, as long as you provide **proof that the promotion happened and I can see it**.
-
-**Your promotion = my development.** No money required.
-
-If you're interested, [check out my GitHub](https://github.com/anshlabs716) and contact me through the options below.
-
----
-
 <div align="center">
 
 # 👋 Hey, I'm Ansh
@@ -42,6 +30,18 @@ If you're interested, [check out my GitHub](https://github.com/anshlabs716) and 
 </p>
 
 </div>
+
+---
+
+## 💻 Private Development
+
+Want me to develop something **privately for you**? Contact me.
+
+I can build a private project or custom software for you **at no cost**. Instead of payment, the fair deal is simple: you promote my GitHub repositories and projects **anywhere and however you want**, as long as you provide **proof that the promotion happened and I can see it**.
+
+**Your promotion = my development.** No money required.
+
+If you're interested, [check out my GitHub](https://github.com/anshlabs716) and contact me through the options below.
 
 ---
 
