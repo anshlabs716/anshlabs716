@@ -59,20 +59,28 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.tiktok.com/@ansh.bhatia7">
+<a href="https://gitlab.com/anshlabs716">
+<img src="https://img.shields.io/badge/GitLab-anshlabs716-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.tiktok.com/@ansh.bhatia7?lang=en">
 <img src="https://img.shields.io/badge/TikTok-@ansh.bhatia7-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 &nbsp;&nbsp;
 
-<a href="https://discord.gg/yNsPvk9b">
-<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<a href="https://matrix.to/#/@anshdude:matrix.org">
+<img src="https://img.shields.io/badge/Matrix-@anshdude-000000?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix">
 </a>
 &nbsp;&nbsp;
 
+<a href="https://wa.me/61434972433">
+<img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 &nbsp;&nbsp;
 
-<a href="https://gitlab.com/anshlabs716">
-<img src="https://img.shields.io/badge/GitLab-anshlabs716-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+<a href="https://signal.me/#eu/e6guK2D87g_1aZPRVlBINMbGH4kAlOnD3qkHy1DOieHN8f5a1sxKkKIhTYskcC-L">
+<img src="https://img.shields.io/badge/Signal-Contact-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal">
 </a>
 
 </p>
