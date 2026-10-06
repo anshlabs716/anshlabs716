@@ -84,15 +84,21 @@ I enjoy working below the UI too — debugging system issues, using terminals, w
 
 I like finding **stale or inactive projects that already have a genuinely good foundation** and giving them a second life.
 
-For example, **Luogo-FOSS** started from Luogo because it had a solid idea and useful foundation even though development had gone stale. Rather than rebuilding everything from zero, I forked it and started turning that foundation into the Android project I wanted.
+For example, **[Luogo-FOSS](https://github.com/anshlabs716/Luogo-FOSS)** started from Luogo because it had a solid idea and useful foundation even though development had gone stale. Rather than rebuilding everything from zero, I forked it and started turning that foundation into the Android project I wanted.
 
-I like doing this with projects such as **Android apps, utilities, navigation tools, and other FOSS software** when the original idea is good but the project needs someone to pick it back up.
+I also like building privacy-focused software, practical system tools, navigation apps, terminal utilities, AI projects, games, and security-related tools.
 
-My approach is simple:
+- **Privacy-focused Android:** [MILES](https://github.com/anshlabs716/miles) — building useful activity tracking without unnecessary tracking or proprietary dependencies.
+- **Android system tooling:** [SysKit](https://github.com/anshlabs716/syskit) — system tools spanning Android, APK workflows, Termux, and terminal use.
+- **Navigation:** [GeoNav](https://github.com/anshlabs716/GeoNav) — a FOSS, privacy-first navigation project built around OpenStreetMap and MapLibre.
+- **Terminal tooling:** [SysKit](https://github.com/anshlabs716/syskit) / [minifetch](https://github.com/anshlabs716/minifetch) — lightweight command-line tools and system information utilities.
+- **AI experimentation:** [N30NC0R3_AI](https://github.com/anshlabs716/N30NC0R3_AI) — experimenting with AI projects and different ways to build useful AI tools.
+- **Experimental projects:** [snowansher](https://github.com/anshlabs716/snowansher) — building and experimenting with ideas to learn through making.
+- **Game development:** [flappyansh](https://github.com/anshlabs716/flappyansh) — experimenting with gameplay, programming, and interactive ideas.
+- **Cybersecurity:** [invoke-bsod](https://github.com/anshlabs716/invoke-bsod) / [deadly-scripts](https://github.com/anshlabs716/deadly-scripts) — exploring security concepts and building security-related tooling.
 
-**Find a good base → fork it → clean it up → modernize it → fix what's needed → build on it.**
+I also like making projects compatible across different environments whenever possible. For example, [MILES](https://github.com/anshlabs716/miles) has a Wear OS project, while [SysKit](https://github.com/anshlabs716/syskit) can span terminal, Termux, and Android APK environments.
 
-Good software doesn't have to disappear just because the original development stopped.
 ---
 
 ## 🧠 How I Learn
