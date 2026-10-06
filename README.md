@@ -4,7 +4,7 @@
 
 ### 🇦🇺 Android Developer • Linux Nerd • FOSS Builder • Privacy Enthusiast
 
-**I build Android apps in Kotlin, tinker with AOSP, break things, fix them, and occasionally make them work on the first try. 😭**
+**I build Android apps in Kotlin, tinker with AOSP, break things, fix them, and occasionally make them work on the first try. **
 
 <p>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
