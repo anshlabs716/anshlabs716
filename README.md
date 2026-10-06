@@ -114,7 +114,9 @@ I also like making projects **compatible across as many environments as possible
 
 ## 🧠 How I Learn
 
-### **Build → Break → Investigate → Fix → Improve → Repeat**
+| Build | Break | Investigate | Fix | Improve | Repeat |
+|---|---|---|---|---|---|
+| Start with an idea | Find what fails | Understand why | Solve the problem | Make it better | Ship and learn |
 
 I learn best by actually building things. When something fails, I want to understand **why** it failed instead of just copying a fix.
 
@@ -152,6 +154,6 @@ If you like what I'm building, the best support is to **use my projects, test th
 
 ### 🐧 Linux · 📱 Android · 🔐 Privacy · 🛡️ Security · 🌎 FOSS
 
-**BUILD. BREAK. FIX. SHIP. 🚀**
+**build. break. fix. ship. 🚀**
 
 </div>
