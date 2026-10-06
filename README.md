@@ -60,9 +60,6 @@ A FOSS, privacy-first Android navigation project built around **OpenStreetMap an
 ### 🐧 [minifetch](https://github.com/anshlabs716/minifetch)
 A tiny system information tool built for Linux, keeping the idea simple and lightweight.
 
-### 💿 [iso-flasher](https://github.com/anshlabs716/iso-flasher)
-A no-bloat ISO-to-USB flasher focused on keeping the workflow straightforward.
-
 ---
 
 ## 📱 Android Development
@@ -85,11 +82,13 @@ I enjoy working below the UI too — debugging system issues, using terminals, w
 
 ## ♻️ Open Source
 
-I especially like finding **inactive or abandoned projects with a genuinely good foundation**.
+I like finding **stale or inactive projects that already have a genuinely good foundation** and giving them a second life.
 
-If the base is solid, I'd rather **fork it, clean it up, modernize it, fix what needs fixing, and build on top of it** than throw away good work and start from zero.
+A good example is **Luogo-FOSS** — I forked Luogo because the project had a solid base and a good idea, even though development had gone stale. Instead of starting from zero, I could keep the useful foundation and build on it.
 
-Good software doesn't have to disappear just because its original development stopped.
+That's how I like to work: **find a good base → fork it → clean it up → modernize it → fix what's needed → keep building.**
+
+I think good software is worth continuing when the foundation is already there.
 
 ---
 
