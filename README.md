@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<br><br>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript">
 </p>
 
 <p>
@@ -35,22 +39,32 @@
 
 ## 👨‍💻 About Me
 
-I'm **Ansh**, a developer from **Australia** interested in **Linux, Android, privacy, cybersecurity, FOSS, gaming, and software development**.
+# 🇦🇺 Developer from Australia
 
-I like experimenting with technology, customizing devices, and building useful software.
+I'm **Ansh**, a developer interested in **Linux, Android, privacy, cybersecurity, FOSS, gaming, and software development**.
 
-I also enjoy **forking inactive or abandoned projects when they have a solid foundation**, then improving and modernizing them.
+### 📱 Android Development 🎉
 
-## 🛠️ Languages & Tools
+I develop **Android apps in Kotlin**, working with **Android Studio, Jetpack Compose, AOSP, custom ROMs, ADB, Shizuku, and microG**.
 
-**Languages:** C • Python • Java • HTML • CSS • JavaScript • Bash • PowerShell • VBScript
+I enjoy experimenting with Android, customizing devices, and building useful apps.
 
-**Tools:** Git • GCC • VS Code • Linux • Android • AOSP • microG • ADB • Shizuku
+### 🛠️ Languages & Tools
+
+**Languages**
+
+C • Python • Java • HTML • CSS • JavaScript  
+Bash • PowerShell • VBScript • Kotlin
+
+**Tools & Technologies**
+
+Git • GCC • VS Code • Linux • MX Linux • Android • Android Studio  
+AOSP • Jetpack Compose • microG • ADB • Shizuku
 
 ## 🚀 What I'm Into
 
 - 🐧 Linux & system customization
-- 📱 Android, AOSP & custom ROMs
+- 📱 Android & custom ROMs
 - 🔓 Rooting & deGoogling
 - 🌎 FOSS & open source
 - 🔒 Privacy & security
@@ -65,9 +79,7 @@ I learn by **building things, breaking them, figuring out why, fixing them, and 
 
 ## 🌱 Open Source
 
-I want to keep contributing to FOSS, learning from existing projects, and building software people actually find useful.
-
-I especially like giving promising inactive projects a **second life** when the foundation is worth building on.
+I like contributing to FOSS and giving promising inactive projects a **second life** when they have a solid foundation worth building on.
 
 ## 🎯 Goals
 
@@ -97,6 +109,6 @@ I especially like giving promising inactive projects a **second life** when the 
 
 ### 🐧 Linux • 📱 Android • 🔒 Privacy • 🔐 Security • 🌎 FOSS
 
-**Build useful things. Keep learning. Have fun.**
+## **Build useful things. Keep learning. Have fun. 🎉**
 
 </div>
