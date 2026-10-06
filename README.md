@@ -2,17 +2,27 @@
 
 # 👋 Hey, I'm Ansh
 
-### 🧑‍💻 Student Developer • Linux • Android • FOSS • Privacy • Cybersecurity
+### 🇦🇺 Android Developer • Linux Nerd • FOSS Builder • Privacy Enthusiast
+
+**I build Android apps in Kotlin, tinker with AOSP, break things, fix them, and occasionally make them work on the first try. 😭**
+
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+</p>
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<br><br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<br><br>
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 <img src="https://img.shields.io/badge/VBScript-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBScript">
@@ -21,7 +31,6 @@
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
@@ -37,58 +46,96 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 Who Am I?
 
-# 🇦🇺 Developer from Australia
+I'm **Ansh**, an Australian developer who spends way too much time messing with **Android, Linux, FOSS, privacy, custom ROMs, and software**.
 
-I'm **Ansh**, a developer interested in **Linux, Android, privacy, cybersecurity, FOSS, gaming, and software development**.
+I like projects that are useful, hackable, and actually fun to work on — especially when I can turn an idea into something people can use.
 
-### 📱 Android Development 🎉
+---
 
-I develop **Android apps in Kotlin**, working with **Android Studio, Jetpack Compose, AOSP, custom ROMs, ADB, Shizuku, and microG**.
+## 📱 Android Development 🎉
 
-I enjoy experimenting with Android, customizing devices, and building useful apps.
+**Kotlin is my main language for Android development.**
 
-### 🛠️ Languages & Tools
+I work with the Android stack from app code all the way down to device tooling:
 
-**Languages**
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android SDK">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" alt="Android Studio">
+<img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle">
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+<img src="https://img.shields.io/badge/Material%203-6750A4?style=flat-square&logo=materialdesign&logoColor=white" alt="Material 3">
+</p>
 
-C • Python • Java • HTML • CSS • JavaScript  
-Bash • PowerShell • VBScript • Kotlin
+**Android tooling & platform work**
 
-**Tools & Technologies**
+AOSP · Android SDK · Gradle · ADB · Fastboot · Shizuku · microG · custom ROMs · rooting · system customization
 
-Git • GCC • VS Code • Linux • MX Linux • Android • Android Studio  
-AOSP • Jetpack Compose • microG • ADB • Shizuku
+**Libraries & development**
 
-## 🚀 What I'm Into
+Jetpack Compose · Material 3 · Coroutines · AndroidX · ViewModel · Room · XML · Kotlin DSL
 
-- 🐧 Linux & system customization
-- 📱 Android & custom ROMs
-- 🔓 Rooting & deGoogling
-- 🌎 FOSS & open source
-- 🔒 Privacy & security
-- 🌐 Networking & terminal software
-- 🛠️ Building useful tools
-- 🎮 Gaming
-- 🤖 AI & experimentation
+I enjoy building apps, experimenting with Android internals, customizing devices, and figuring out why something broke at 2 AM. 💀
+
+---
+
+## 🛠️ My Stack
+
+### 💻 Languages
+Kotlin · C · Python · Java · HTML · CSS · JavaScript · Bash · PowerShell · VBScript
+
+### 📱 Android
+Android Studio · Android SDK · Gradle · Kotlin DSL · Jetpack Compose · Material 3 · AndroidX · Coroutines · Room · XML · AOSP · ADB · Fastboot · Shizuku · microG
+
+### 🐧 Linux & Systems
+Linux · MX Linux · Git · GCC · Terminal · ADB · Fastboot · Shell scripting
+
+---
+
+## 🔥 What I'm Into
+
+| 🧩 Area | ⚡ Stuff I Like |
+|---|---|
+| 📱 Android | Apps, AOSP, custom ROMs, rooting, de-Googling |
+| 🐧 Linux | System customization, terminals, Debian-based setups |
+| 🌎 FOSS | Open source, privacy-first software, self-hosted ideas |
+| 🔒 Privacy | Minimal tracking, fewer cloud dependencies, de-Googled setups |
+| 🛠️ Projects | Useful tools, experiments, forks, fixing old code |
+| 🌐 Networking | Android networking, terminals, system tools |
+| 🤖 AI | Using AI to prototype, debug, experiment, and build |
+| 🎮 Gaming | Games, Linux gaming, random side projects |
+
+---
+
+## ♻️ Open Source
+
+I like contributing to FOSS — and I especially like finding **inactive or abandoned projects with a genuinely good foundation** and giving them a second life instead of starting from zero.
+
+If the base is solid, I'll happily fork it, clean it up, modernize it, and build on top of it. 🚀
+
+---
 
 ## 🧠 How I Learn
 
-I learn by **building things, breaking them, figuring out why, fixing them, and improving them**.
+**Build → Break → Investigate → Fix → Improve → Repeat**
 
-## 🌱 Open Source
+I learn best by actually making things and getting my hands dirty.  
+If something fails, that's usually where the interesting part starts.
 
-I like contributing to FOSS and giving promising inactive projects a **second life** when they have a solid foundation worth building on.
+---
 
-## 🎯 Goals
+## 🎯 Where I'm Heading
 
-- Become a better developer
-- Understand Linux & Android more deeply
-- Learn cybersecurity properly
-- Improve networking skills
-- Contribute more to FOSS
-- Build software I'm proud of
+- 🚀 Become a stronger Android developer
+- 🧠 Go deeper into Kotlin & Android internals
+- 🐧 Get better at Linux and systems
+- 🔐 Learn cybersecurity properly
+- 🌎 Contribute more to FOSS
+- 🛠️ Build software people actually find useful
+
+---
 
 ## 📬 Contact
 
@@ -107,8 +154,8 @@ I like contributing to FOSS and giving promising inactive projects a **second li
 
 <div align="center">
 
-### 🐧 Linux • 📱 Android • 🔒 Privacy • 🔐 Security • 🌎 FOSS
+### 🐧 Linux • 📱 Android • 🔐 Privacy • 🛡️ Security • 🌎 FOSS
 
-## **Build useful things. Keep learning. Have fun. 🎉**
+## **BUILD. BREAK. FIX. SHIP. 🚀**
 
 </div>
