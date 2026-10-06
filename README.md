@@ -47,7 +47,7 @@ If you're interested, [check out my GitHub](https://github.com/anshlabs716) and 
 
 ## 📬 Contact & Build With Me
 
-If you want to **develop with me, test something, share an idea, or help improve a project**, reach out through any of the buttons below.
+Want to **develop with me, build something with me, collaborate on a project, or ask me to build something for you**? Have an idea, need a custom project, want to test something, or just want to share an idea? Reach out through any of the buttons below.
 
 <p align="center">
 <a href="https://github.com/anshlabs716"><img src="https://img.shields.io/badge/GitHub-anshlabs716-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
