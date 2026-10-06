@@ -68,7 +68,7 @@ I like taking projects from **rough idea → working software → something wort
 | [📱 MILES](https://github.com/anshlabs716/MILES) | Privacy-focused Android activity and step tracker built with Kotlin and Jetpack Compose. |
 | [📍 Luogo-FOSS](https://github.com/anshlabs716/Luogo-FOSS) | Privacy-first Android location sharing and device-finding project built with Kotlin and Compose. |
 | [🗺️ GeoNav](https://github.com/anshlabs716/GeoNav) | FOSS, privacy-first Android navigation built around OpenStreetMap and MapLibre. |
-| [🐧 minifetch](https://github.com/anshlabs716/minifetch) | Lightweight Linux system information tool. |
+| [🛠️ SysKit](https://github.com/anshlabs716/syskit) | Android and terminal system toolkit spanning APK workflows, Termux and command-line tooling. |
 
 ---
 
@@ -92,20 +92,19 @@ I enjoy working below the UI — debugging system issues, using terminals, worki
 
 ## ♻️ Open Source
 
-I like finding **stale or inactive projects that already have a genuinely good foundation** and giving them a second life.
+I like finding **stale or inactive projects with a genuinely good foundation** and giving them a second life.
 
-A good example is **[Luogo-FOSS](https://github.com/anshlabs716/Luogo-FOSS)**. It started from Luogo because the idea and foundation were worth building on, so I chose to fork it and turn that foundation into the Android project I wanted instead of rebuilding everything from zero.
+A good example is [**Luogo-FOSS**](https://github.com/anshlabs716/Luogo-FOSS). It started from Luogo because the idea and foundation were worth building on, so I chose to fork it and turn that foundation into the Android project I wanted instead of rebuilding everything from zero.
 
 I also enjoy building across different areas:
 
-- **Privacy-focused Android:** [MILES](https://github.com/anshlabs716/MILES) — useful activity tracking without unnecessary tracking or proprietary dependencies.
-- **Android system tooling:** [SysKit](https://github.com/anshlabs716/syskit) — tools spanning Android, APK workflows, Termux and terminal use.
-- **Navigation:** [GeoNav](https://github.com/anshlabs716/GeoNav) — privacy-first navigation built around OpenStreetMap and MapLibre.
-- **Terminal tooling:** [SysKit](https://github.com/anshlabs716/syskit) and [minifetch](https://github.com/anshlabs716/minifetch) — lightweight command-line and system information tools.
-- **AI experimentation:** [N30NC0R3_AI](https://github.com/anshlabs716/N30NC0R3_AI) — experimenting with AI projects and useful AI tools.
-- **Experimental projects:** [snowansher](https://github.com/anshlabs716/snowansher) — experimenting with ideas and learning through building.
-- **Games:** [flappyansh](https://github.com/anshlabs716/flappyansh) — experimenting with gameplay, programming and interactive ideas.
-- **Security:** [invoke-bsod](https://github.com/anshlabs716/invoke-bsod) and [deadly-scripts](https://github.com/anshlabs716/deadly-scripts) — exploring security concepts and security-related tooling.
+- **Privacy-focused Android** — [MILES](https://github.com/anshlabs716/MILES): useful activity tracking without unnecessary tracking or proprietary dependencies.
+- **Android system tooling** — [SysKit](https://github.com/anshlabs716/syskit): tools spanning Android, APK workflows, Termux and terminal use.
+- **Navigation** — [GeoNav](https://github.com/anshlabs716/GeoNav): privacy-first navigation built around OpenStreetMap and MapLibre.
+- **AI experimentation** — [N30NC0R3_AI](https://github.com/anshlabs716/N30NC0R3_AI): experimenting with AI projects and useful AI tools.
+- **Experimental projects** — [snowansher](https://github.com/anshlabs716/snowansher): experimenting with ideas and learning through building.
+- **Games** — [flappyansh](https://github.com/anshlabs716/flappyansh): experimenting with gameplay, programming and interactive ideas.
+- **Security** — [invoke-bsod](https://github.com/anshlabs716/invoke-bsod) and [deadly-scripts](https://github.com/anshlabs716/deadly-scripts): exploring security concepts and security-related tooling.
 
 I also like making projects **compatible across as many environments as possible**. [MILES](https://github.com/anshlabs716/MILES) has a Wear OS project, while [SysKit](https://github.com/anshlabs716/syskit) can span **terminal, Termux and Android APK environments**.
 
