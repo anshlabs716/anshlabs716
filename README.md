@@ -84,12 +84,15 @@ I enjoy working below the UI too — debugging system issues, using terminals, w
 
 I like finding **stale or inactive projects that already have a genuinely good foundation** and giving them a second life.
 
-A good example is **Luogo-FOSS** — I forked Luogo because the project had a solid base and a good idea, even though development had gone stale. Instead of starting from zero, I could keep the useful foundation and build on it.
+For example, **Luogo-FOSS** started from Luogo because it had a solid idea and useful foundation even though development had gone stale. Rather than rebuilding everything from zero, I forked it and started turning that foundation into the Android project I wanted.
 
-That's how I like to work: **find a good base → fork it → clean it up → modernize it → fix what's needed → keep building.**
+I like doing this with projects such as **Android apps, utilities, navigation tools, and other FOSS software** when the original idea is good but the project needs someone to pick it back up.
 
-I think good software is worth continuing when the foundation is already there.
+My approach is simple:
 
+**Find a good base → fork it → clean it up → modernize it → fix what's needed → build on it.**
+
+Good software doesn't have to disappear just because the original development stopped.
 ---
 
 ## 🧠 How I Learn
