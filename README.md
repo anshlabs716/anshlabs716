@@ -131,6 +131,7 @@ I also ask my **family and friends what apps would actually be useful to them**,
 - Get better at Linux and systems
 - Learn cybersecurity properly
 - Contribute more to FOSS
+- One day, I want to make my own Magisk module
 - Build software people actually find useful
 - **One day, build my own Magisk module**
 
