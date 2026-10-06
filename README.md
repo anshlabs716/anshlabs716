@@ -33,7 +33,9 @@
 
 ---
 
-## 📬 Contact
+## 📬 Contact & Build With Me
+
+If you want to **develop with me, test something, share an idea, or help improve a project**, reach out through any of the buttons below.
 
 <p align="center">
 <a href="https://github.com/anshlabs716"><img src="https://img.shields.io/badge/GitHub-anshlabs716-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -116,6 +118,8 @@ I also like making projects **compatible across as many environments as possible
 
 I learn best by actually building things. When something fails, I want to understand **why** it failed instead of just copying a fix.
 
+I also ask my **family and friends what apps would actually be useful to them**, then use those real-world ideas as inspiration for what I build next. I want to make software that solves problems people actually have, not just build things because I can.
+
 ---
 
 ## 🎯 What I'm Working Toward
@@ -126,6 +130,21 @@ I learn best by actually building things. When something fails, I want to unders
 - Learn cybersecurity properly
 - Contribute more to FOSS
 - Build software people actually find useful
+- **One day, build my own Magisk module**
+
+---
+
+## 🌎 Explore My Work
+
+**Check out all my repositories:** [github.com/anshlabs716](https://github.com/anshlabs716?tab=repositories)
+
+---
+
+## 🤝 Support My Development
+
+I'm **not asking for a sponsor** — I'm asking you to help me develop.
+
+If you like what I'm building, the best support is to **use my projects, test them, report issues, share ideas, give feedback, or contribute code**. Help me turn ideas into software that is actually useful.
 
 ---
 
