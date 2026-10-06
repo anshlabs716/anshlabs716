@@ -69,8 +69,10 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://soundcloud.com/ansh-bhatia-216864160">
-<img src="https://img.shields.io/badge/SoundCloud-Profile-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="SoundCloud">
+&nbsp;&nbsp;
+
+<a href="https://gitlab.com/anshlabs716">
+<img src="https://img.shields.io/badge/GitLab-anshlabs716-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </a>
 
 </p>
@@ -79,11 +81,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Ansh**, a student developer from **Australia** who is into technology, Linux, Android, privacy, cybersecurity, FOSS, gaming, and software development.
+I'm **Ansh**, an Australian developer interested in **Linux, Android, privacy, cybersecurity, FOSS, gaming, and software development**.
 
-I like experimenting with technology, customizing my devices, learning how systems work, and turning random ideas into projects that actually exist.
+I like experimenting with technology, customizing devices, and turning ideas into projects that are actually useful.
 
-I especially enjoy building **useful tools**, messing around with Linux, exploring Android, and learning by breaking things and figuring out how to fix them.
+I also enjoy **forking inactive or abandoned projects when they have a solid base to work from**, then improving, modernizing, and keeping them useful.
 
 ---
 
@@ -139,255 +141,73 @@ I especially enjoy building **useful tools**, messing around with Linux, explori
 
 ## 🐧 Linux
 
-Linux is a huge part of what I enjoy.
-
-I like having control over my operating system and actually understanding what's happening underneath the desktop.
-
-I'm especially into:
-
-* 🏹 Arch Linux
-* ⌨️ Terminal workflows
-* 🐚 Shell scripting
-* 📦 Package management
-* 🛠️ System utilities
-* ⚙️ System customization
-* 🔧 Troubleshooting
-* 🧪 Experimenting with different setups
-* 💻 Building Linux software
-
-I don't just want to **use** Linux.
-
-I want to understand it.
+Linux is a big part of what I enjoy. I like having control over my system, understanding what happens underneath the desktop, experimenting with setups, and building tools for it.
 
 ---
 
 ## 📱 Android
 
-Android is another major part of my tech interests.
-
-I enjoy going beyond the normal Android experience and experimenting with the operating system itself.
-
-I'm interested in:
-
-* 📱 Android
-* 🧩 AOSP
-* 🔧 Custom ROMs
-* 🔓 Rooting
-* 🛠️ Magisk
-* 🧩 microG
-* 🧹 DeGoogling
-* ⚙️ System modification
-* 🧪 Android experimentation
-* 🔐 Android security
-* 🎨 Device customization
-* 🛠️ Shizuku
-* 🔌 ADB
-* 📦 FOSS Android apps
-
-I like having more control over the devices I own and being able to choose how they work.
+I enjoy exploring Android beyond the stock experience, including **AOSP, custom ROMs, rooting, microG, deGoogling, Shizuku, ADB, FOSS apps, and Android security**.
 
 ---
 
 ## 🔒 Privacy
 
-<div align="right">
+I prefer practical privacy: use privacy-friendly software where it makes sense, reduce unnecessary tracking, protect important data, and keep control over my devices.
 
-<img src="https://media.tenor.com/5T7rJYlY9qEAAAAC/privacy-privacy-is-a-right.gif" width="300" alt="Privacy is a universal right">
-
-</div>
-
-### **Privacy is a universal right.**
-
-Privacy is important to me, but I also believe in **balance**.
-
-I'm not trying to make technology so private that using it becomes a massive pain.
-
-I prefer a practical approach:
-
-* 🔒 Use privacy-friendly software where it makes sense
-* 🌎 Prefer FOSS when there's a good option
-* 🧩 Use non-FOSS software when it genuinely works better for the job
-* 🚫 Reduce unnecessary tracking
-* 🛡️ Keep important data protected
-* ⚖️ Balance privacy with convenience
-* 🧠 Understand what software is actually doing
-* 🛠️ Keep control over my devices
-
-**Privacy shouldn't mean making your entire life harder.**
-
-Good technology should give people **choice**.
+**Privacy shouldn't mean making technology harder to use.**
 
 ---
 
 ## 🌎 FOSS & Open Source
 
-FOSS is something I really care about.
-
-I like software that people can inspect, learn from, improve, modify, and share.
-
-### Why I like FOSS
-
-* 🔍 Transparency
-* 🛠️ Freedom to modify
-* 📚 Learning from source code
-* 🤝 Collaboration
-* 🌎 Open development
-* 🔒 User control
-* 🧠 Sharing knowledge
-
-But I'm not a **"everything must be FOSS or it's garbage"** person.
-
-If a proprietary application is significantly better for something I actually need, I'll use it.
+I like software that people can inspect, learn from, improve, modify, and share. I prefer FOSS when practical, while still using proprietary software when it genuinely works better for the job.
 
 **FOSS when practical. Non-FOSS when useful. Privacy where it matters.**
-
-That's the balance I prefer.
 
 ---
 
 ## 🔐 Cybersecurity
 
-Cybersecurity is one of my biggest long-term interests.
+I'm interested in **Linux security, networking, operating systems, security fundamentals, defensive security, security research, system architecture, privacy, and Android security**.
 
-I'm interested in understanding how computers, operating systems, networks, and software work so I can eventually understand security at a much deeper level.
-
-I'm especially interested in:
-
-* 🐧 Linux security
-* 🌐 Networking
-* 💻 Operating systems
-* 🔐 Security fundamentals
-* 🛡️ Defensive security
-* 🔎 Security research
-* 🧠 System architecture
-* 🧪 Controlled testing
-* 🔒 Privacy
-* 📱 Android security
-
-I'm still learning, so my goal isn't to pretend I know everything.
-
-It's to **actually understand it**.
+I'm still learning, with the goal of actually understanding how systems work rather than pretending to know everything.
 
 ---
 
 ## 🧠 How I Learn
 
-I learn best by actually building things.
-
-I like taking an idea and seeing where it goes instead of only following tutorials.
-
-```text
-        💡 Idea
-           │
-           ▼
-        🛠️ Build
-           │
-           ▼
-     💥 Something breaks
-           │
-           ▼
-      🔎 Investigate
-           │
-           ▼
-        🔧 Fix it
-           │
-           ▼
-       ⚙️ Improve
-           │
-           ▼
-        🧠 Learn
-           │
-           └──────────────↻
-```
-
-Sometimes the result is great.
-
-Sometimes it completely falls apart.
-
-Either way, I learned something.
+I learn best by building things, breaking them, investigating what went wrong, fixing them, and improving them.
 
 ---
 
 ## 🛠️ What I Like Building
 
-I enjoy software that is:
+I like software that is **useful, practical, lightweight, privacy-friendly, open source, experimental, Linux-friendly, and terminal-friendly**.
 
-* 💡 Useful
-* 🧠 Interesting
-* 🛠️ Practical
-* ⚡ Lightweight
-* 🔒 Privacy-friendly
-* 🌎 Open source
-* 🧪 Experimental
-* 🖥️ Linux-friendly
-* ⌨️ Terminal-friendly
-
-I especially like smaller tools that solve actual problems without adding unnecessary complexity.
+I especially like smaller tools that solve real problems without unnecessary complexity.
 
 ---
 
 ## 💭 My Software Philosophy
 
-I don't want to make software just so I can say I made it.
+I care about **user experience, performance, simplicity, privacy, reliability, documentation, and solving real problems**.
 
-I want my projects to actually be **good**.
-
-That means I care about:
-
-* ✨ User experience
-* ⚡ Performance
-* 🧹 Simplicity
-* 🔒 Privacy
-* 🛠️ Reliability
-* 📚 Documentation
-* 🌎 Open source
-* 🧠 Solving real problems
-
-I'd rather build something small that people genuinely find useful than something massive that nobody needs.
+I'd rather build something small that people genuinely find useful than something huge that nobody needs.
 
 ---
 
 ## 🎮 Gaming
 
-I'm a gamer too.
-
-Gaming was one of the things that made computers and technology interesting to me.
-
-I enjoy:
-
-* 🎮 PC gaming
-* 🕹️ Console gaming
-* 📱 Mobile gaming
-* 🧩 Emulation
-* ⚙️ Game customization
-* 🛠️ Experimenting with games
-* 💻 Making games
-
-I also like building games because it's a fun way to combine programming with creativity.
+I'm a gamer too. I enjoy **PC, console, and mobile gaming, emulation, game customization, and making games**.
 
 ---
 
 ## 🧪 Experimentation
 
-One of my favourite parts of technology is experimenting.
+I like trying new software, testing operating systems, changing configurations, customizing devices, exploring Linux, and figuring out why things work—or don't.
 
-I like:
-
-* Trying software I've never used
-* Testing operating systems
-* Changing configurations
-* Customizing devices
-* Testing different ROMs
-* Exploring Linux
-* Playing around with code
-* Figuring out why something works
-* Figuring out why something **doesn't** work
-
-Sometimes the experiment becomes a project.
-
-Sometimes it becomes a lesson.
-
-Both are useful.
+Sometimes an experiment becomes a project. Sometimes it becomes a lesson. Both are useful.
 
 ---
 
@@ -439,110 +259,45 @@ I enjoy working from the terminal and building projects directly on my own syste
 * 🧩 AOSP
 * 🛠️ Software design
 
-I'm constantly adding new things to that list.
-
 ---
 
 ## 🎯 Goals
-
-### 📚 Learning Goals
 
 * 🧠 Become a better developer
 * 🐧 Understand Linux more deeply
 * 📱 Learn more about Android internals
 * 🔐 Learn cybersecurity properly
-* 🌐 Improve my networking knowledge
-* 🛠️ Improve software design
-* 🌎 Become more involved with FOSS
-* 💻 Build more useful projects
+* 🌐 Improve networking knowledge
+* 🌎 Contribute more to FOSS
+* 💻 Build useful software
 
-### 🚀 Long-Term
-
-I don't need to be the "best programmer."
-
-I just want to become **good enough to build software I'm genuinely proud of**.
-
-```text
-       Keep learning
-            ↓
-       Build useful things
-            ↓
-        Improve them
-            ↓
-         Share them
-            ↓
-         Help people
-            ↓
-    Learn from other people
-            ↓
-      Build something better
-```
+I don't need to be the best programmer. I just want to become good enough to build software I'm genuinely proud of.
 
 ---
 
 ## ❤️ Things I Care About
 
-### 🐧 Linux
-
-Control over my computer and understanding how it works.
-
-### 📱 Android
-
-Customizing devices, exploring AOSP, rooting, microG, and pushing Android beyond the stock experience. 🚀
-
-### 🔒 Privacy
-
-Protecting users without making technology unnecessarily difficult to use.
-
-### 🌎 FOSS
-
-Open software, transparency, learning, and collaboration.
-
-### 🔐 Cybersecurity
-
-Understanding how systems work and how they can be protected.
-
-### 🎮 Gaming
-
-Having fun with technology and using games as another way to learn and create.
-
-### 🛠️ Software
-
-Building things that solve actual problems.
+* 🐧 Linux
+* 📱 Android
+* 🔒 Privacy
+* 🌎 FOSS
+* 🔐 Cybersecurity
+* 🎮 Gaming
+* 🛠️ Software
 
 ---
 
 ## 🌱 Still Growing
 
-I'm still learning.
-
-I'm still experimenting.
-
-I'm still figuring out exactly where technology will take me.
-
-And I'm completely fine with that.
-
-I don't need to know everything.
-
-I just want to keep learning, keep building, and keep improving.
+I'm still learning, experimenting, and figuring out where technology will take me. I just want to keep learning, building, and improving.
 
 ---
 
 ## 🤝 Open Source
 
-I want to become more involved with the open-source community over time.
+I want to become more involved with open source by **building software, learning from existing projects, collaborating, contributing improvements, and sharing what I learn**.
 
-I want to:
-
-* 🛠️ Build open-source software
-* 📚 Learn from existing projects
-* 🤝 Collaborate with developers
-* 🔧 Contribute improvements
-* 🌎 Share what I learn
-* 🧠 Help other people learn
-* 💡 Turn ideas into useful software
-
-I'm still learning, but that's part of the journey.
+I also like taking promising inactive projects and giving them a second life when the foundation is worth building on.
 
 ---
 
