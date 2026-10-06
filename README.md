@@ -94,7 +94,7 @@ I enjoy working below the UI — debugging system issues, using terminals, worki
 
 ## ♻️ Open Source
 
-I like finding **stale or inactive projects with a genuinely good foundation** and giving them a second life.
+I like finding **stale or inactive projects with a genuinely good foundation** and giving them a second life same with tech irl.
 
 A good example is [**Luogo-FOSS**](https://github.com/anshlabs716/Luogo-FOSS). It started from Luogo because the idea and foundation were worth building on, so I chose to fork it and turn that foundation into the Android project I wanted instead of rebuilding everything from zero.
 
@@ -145,7 +145,7 @@ I also ask my **family and friends what apps would actually be useful to them**,
 
 ## 🤝 Support My Development
 
-I'm **not asking for a sponsor** — I'm asking you to help me develop.
+I'm **not asking for a sponsor** — I'm asking you to help me develop please go up there contact me if you want to develop thank you.
 
 If you like what I'm building, the best support is to **use my projects, test them, report issues, share ideas, give feedback, or contribute code**. Help me turn ideas into software that is actually useful.
 
