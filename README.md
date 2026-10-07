@@ -75,6 +75,16 @@ I like taking projects from **rough idea → working software → something wort
 
 ---
 
+## ⚖️ My FOSS Philosophy
+
+I strongly prefer **FOSS when it can do the job well enough or better**. I value transparency, privacy, user control and software that doesn't unnecessarily lock people in.
+
+But I'm not going to pretend **non-FOSS software is automatically trash**. If a proprietary tool does something I need and FOSS alternatives can't do the job well enough, I'll use the proprietary option. The goal is to use the **best tool for the job**, while choosing FOSS whenever it genuinely fits.
+
+> 🏴‍☠️ **if buying isn't owning, pirating isn't stealing**
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it is |
