@@ -33,32 +33,30 @@
 
 ---
 
-## 💻 Private Development
-
-Want me to develop something **privately for you**? Contact me.
-
-I can build a private project or custom software for you **at no cost**. Instead of payment, the fair deal is simple: you promote my GitHub repositories and projects **anywhere and however you want**, as long as you provide **proof that the promotion happened and I can see it**.
-
-**Your promotion = my development.** No money required.
-
-If you're interested, [check out my GitHub](https://github.com/anshlabs716) and contact me through the options below.
-
----
-
 ## 📬 Contact & Build With Me
 
-Want to **develop with me, build something with me, collaborate on a project, or ask me to build something for you**? Have an idea, need a custom project, want to test something, or just want to share an idea? Reach out through any of the buttons below.
+Want to **develop with me, build something together, collaborate on a project, or share an idea**? Have a project idea, want to test something, or just want to talk tech? Reach out through any of the buttons below.
 
 <p align="center">
 <a href="https://github.com/anshlabs716"><img src="https://img.shields.io/badge/GitHub-anshlabs716-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:bhatiaansh716@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://gitlab.com/anshlabs716"><img src="https://img.shields.io/badge/GitLab-anshlabs716-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
+<a href="https://gitlab.com/anshlabs716"><img src="https://img.shields.io/badge/GitLab-anshlabs716-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 <br><br>
 <a href="https://www.tiktok.com/@ansh.bhatia7?lang=en"><img src="https://img.shields.io/badge/TikTok-@ansh.bhatia7-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
 <a href="https://matrix.to/#/@anshdude:matrix.org"><img src="https://img.shields.io/badge/Matrix-@anshdude-000000?style=for-the-badge&logo=matrix&logoColor=white" alt="Matrix"></a>
 <a href="https://wa.me/61434972433"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 <a href="https://signal.me/#eu/e6guK2D87g_1aZPRVlBINMbGH4kAlOnD3qkHy1DOieHN8f5a1sxKkKIhTYskcC-L"><img src="https://img.shields.io/badge/Signal-Contact-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal"></a>
 </p>
+
+---
+
+## 💡 Have a Repo Idea?
+
+Got an idea for an open-source project I should build?
+
+**Suggest a repo idea and I might make it.** I'm always looking for useful, interesting or weird project ideas to turn into real software.
+
+If you've got an idea, send it through the contact options above.
 
 ---
 
@@ -192,8 +190,6 @@ I also ask my **family and friends what apps would actually be useful to them**,
 ---
 
 ## 🤝 Support My Development
-
-I'm **not asking for a sponsor** — I'm asking you to help me develop. If you want to develop with me, please use the contact options above. Thank you.
 
 If you like what I'm building, the best support is to **use my projects, test them, report issues, share ideas, give feedback, or contribute code**. Help me turn ideas into software that is actually useful.
 
