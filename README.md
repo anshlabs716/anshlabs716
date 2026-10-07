@@ -85,6 +85,30 @@ But I'm not going to pretend **non-FOSS software is automatically trash**. If a 
 
 ---
 
+## 🧰 My Tools
+
+I like using a mix of open-source and proprietary tools depending on what works best for the job.
+
+**Development:** Visual Studio Code · VSCodium · Codeium · OpenCode · Cline · Qoder · Android Studio · Kate
+
+**Version control & collaboration:** Git · GitHub
+
+**Systems:** ADB · Fastboot · Termux · GCC · Bash
+
+---
+
+## 🌐 My Ecosystem
+
+My main ecosystem is built around **Android and Linux**, with a focus on flexibility, customization and FOSS.
+
+**Mobile:** Android · AxionOS
+
+**Desktop:** MX Linux · KDE Plasma
+
+I like keeping my setup flexible — Android for mobile development and testing, and MX Linux with KDE Plasma as my main desktop environment.
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it is |
