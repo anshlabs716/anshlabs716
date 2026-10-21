@@ -90,7 +90,7 @@ I like using a mix of open-source and proprietary tools depending on what works 
 <p>
 <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
 <img src="https://img.shields.io/badge/Kate-1B1F23?style=for-the-badge&logo=kate&logoColor=white" alt="Kate">
 </p>
 
@@ -98,15 +98,15 @@ I like using a mix of open-source and proprietary tools depending on what works 
 
 ## 🌐 My Ecosystem
 
-My main ecosystem is built around **Android and Linux**, with a focus on flexibility, customization and FOSS.
+My main ecosystem is built around **Debian Linux and Android with crDroid**, with a focus on flexibility, customization and FOSS.
 
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 <img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Plasma">
-<img src="https://img.shields.io/badge/MX%20Linux-000000?style=for-the-badge&logo=mxlinux&logoColor=white" alt="MX Linux">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
 </p>
 
-I use **Android/AxionOS** on mobile and **MX Linux with KDE Plasma** on desktop.
+I use **Android with crDroid** on mobile and **Debian with KDE Plasma** on desktop.
 
 ---
 
@@ -133,7 +133,7 @@ I use **Android/AxionOS** on mobile and **MX Linux with KDE Plasma** on desktop.
 
 ## 🐧 Linux & Systems
 
-**MX Linux** · Debian-based systems · Git · GCC · Bash · Terminal · Shell scripting · ADB · Fastboot
+**Debian** · KDE Plasma · Git · GCC · Bash · Terminal · Shell scripting · ADB · Fastboot
 
 I enjoy working below the UI — debugging system issues, using terminals, working with Android tooling, and figuring out why something broke.
 
