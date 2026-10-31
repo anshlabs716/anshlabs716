@@ -175,7 +175,8 @@ I also ask my **family and friends what apps would actually be useful to them**,
 ## 🎯 What I'm Working Toward
 
 - Become a stronger Android developer
-- Go deeper into Kotlin and Android internals
+- **Create my own Android ROM/OS** — build a custom Android experience from the ground up
+- Go deeper into Kotlin, AOSP and Android internals
 - Get better at Linux and systems
 - Learn cybersecurity properly
 - Contribute more to FOSS
