@@ -115,7 +115,7 @@ I use **Android with DerpFest** on mobile and **Debian with KDE Plasma** on desk
 | Project | What it is |
 |---|---|
 | [📱 MILES](https://github.com/anshlabs716/MILES) | Privacy-focused Android activity and step tracker built with Kotlin and Jetpack Compose. |
-| [📍 Luogo-FOSS](https://github.com/anshlabs716/Luogo-FOSS) | Privacy-first Android location sharing and device-finding project built with Kotlin and Compose. |
+| [🗺️ KinNav](https://github.com/anshlabs716/kinnav) | Privacy-first Android maps, navigation and opt-in location sharing built with Kotlin and Compose. |
 | [🗺️ GeoNav](https://github.com/anshlabs716/GeoNav) | FOSS, privacy-first Android navigation built around OpenStreetMap and MapLibre. |
 | [🛠️ SysKit](https://github.com/anshlabs716/syskit) | Android and terminal system toolkit spanning APK workflows, Termux and command-line tooling. |
 
@@ -143,13 +143,14 @@ I enjoy working below the UI — debugging system issues, using terminals, worki
 
 I like finding **stale or inactive projects with a genuinely good foundation** and giving them a second life — the same mindset I use with technology in real life.
 
-A good example is [**Luogo-FOSS**](https://github.com/anshlabs716/Luogo-FOSS). It started from Luogo because the idea and foundation were worth building on, so I chose to fork it and turn that foundation into the Android project I wanted instead of rebuilding everything from zero.
+A good example is [**KinNav**](https://github.com/anshlabs716/kinnav), which brings together **GeoNav's maps and navigation** with **Luogo's opt-in location-sharing system**. Instead of rebuilding everything from zero, I combined the projects into one privacy-first Android platform.
 
 I also enjoy building across different areas:
 
 - **Privacy-focused Android** — [MILES](https://github.com/anshlabs716/MILES): useful activity tracking without unnecessary tracking or proprietary dependencies.
 - **Android system tooling** — [SysKit](https://github.com/anshlabs716/syskit): tools spanning Android, APK workflows, Termux and terminal use.
-- **Navigation** — [GeoNav](https://github.com/anshlabs716/GeoNav): privacy-first navigation built around OpenStreetMap and MapLibre.
+- **Navigation and location sharing** — [KinNav](https://github.com/anshlabs716/kinnav): combines GeoNav's OpenStreetMap/MapLibre navigation with Luogo's opt-in location sharing.
+- **Android debloating** — [Systemless DeGoogler Next](https://github.com/anshlabs716/Systemless-degoogler-next): my Magisk module for systemlessly removing selected Google and OEM apps and bundling open-source replacements.
 - **NeonCore** — [N30NC0R3_AI](https://github.com/anshlabs716/N30NC0R3_AI): a C-only project, written entirely in C.
 - **Experimental projects** — [snowansher](https://github.com/anshlabs716/snowansher): experimenting with ideas and learning through building.
 - **Games** — [flappyansh](https://github.com/anshlabs716/flappyansh): experimenting with gameplay, programming and interactive ideas.
@@ -179,7 +180,7 @@ I also ask my **family and friends what apps would actually be useful to them**,
 - Learn cybersecurity properly
 - Contribute more to FOSS
 - Build software people actually find useful
-- One day, I want to make my own Magisk module
+- Keep improving my Magisk module, [Systemless DeGoogler Next](https://github.com/anshlabs716/Systemless-degoogler-next)
 
 ---
 
