@@ -98,7 +98,7 @@ I like using a mix of open-source and proprietary tools depending on what works 
 
 ## 🌐 My Ecosystem
 
-My main ecosystem is built around **Debian Linux and Android with crDroid**, with a focus on flexibility, customization and FOSS.
+My main ecosystem is built around **Debian Linux and Android with DerpFest**, with a focus on flexibility, customization and FOSS.
 
 <p>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
@@ -106,7 +106,7 @@ My main ecosystem is built around **Debian Linux and Android with crDroid**, wit
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
 </p>
 
-I use **Android with crDroid** on mobile and **Debian with KDE Plasma** on desktop.
+I use **Android with DerpFest** on mobile and **Debian with KDE Plasma** on desktop.
 
 ---
 
@@ -150,7 +150,7 @@ I also enjoy building across different areas:
 - **Privacy-focused Android** — [MILES](https://github.com/anshlabs716/MILES): useful activity tracking without unnecessary tracking or proprietary dependencies.
 - **Android system tooling** — [SysKit](https://github.com/anshlabs716/syskit): tools spanning Android, APK workflows, Termux and terminal use.
 - **Navigation** — [GeoNav](https://github.com/anshlabs716/GeoNav): privacy-first navigation built around OpenStreetMap and MapLibre.
-- **AI experimentation** — [N30NC0R3_AI](https://github.com/anshlabs716/N30NC0R3_AI): experimenting with AI projects and useful AI tools.
+- **NeonCore** — [N30NC0R3_AI](https://github.com/anshlabs716/N30NC0R3_AI): a C-only project, written entirely in C.
 - **Experimental projects** — [snowansher](https://github.com/anshlabs716/snowansher): experimenting with ideas and learning through building.
 - **Games** — [flappyansh](https://github.com/anshlabs716/flappyansh): experimenting with gameplay, programming and interactive ideas.
 - **Security** — [invoke-bsod](https://github.com/anshlabs716/invoke-bsod) and [deadly-scripts](https://github.com/anshlabs716/deadly-scripts): exploring security concepts and security-related tooling.
