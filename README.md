@@ -204,3 +204,15 @@ If you like what I'm building, the best support is to **use my projects, test th
 **build. break. fix. ship. 🚀**
 
 </div>
+
+---
+
+## 📁 Project Files
+
+```text
+anshlabs716/
+├── .editorconfig
+├── .gitattributes
+├── PROJECTS.md
+└── README.md
+```
