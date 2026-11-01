@@ -151,7 +151,7 @@ I also enjoy building across different areas:
 - **Android system tooling** — [SysKit](https://github.com/anshlabs716/syskit): tools spanning Android, APK workflows, Termux and terminal use.
 - **Navigation and location sharing** — [KinNav](https://github.com/anshlabs716/kinnav): combines GeoNav's OpenStreetMap/MapLibre navigation with Luogo's opt-in location sharing.
 - **Android debloating** — [Systemless DeGoogler Next](https://github.com/anshlabs716/Systemless-degoogler-next): my Magisk module for systemlessly removing selected Google and OEM apps and bundling open-source replacements.
-- **NeonCore** — [N30NC0R3_AI](https://github.com/anshlabs716/N30NC0R3_AI): a C-only project, written entirely in C.
+- **NeonCore** — [N30NC0R3_AI](https://github.com/anshlabs716/N30NC0R3_AI): written entirely in C.
 - **Experimental projects** — [snowansher](https://github.com/anshlabs716/snowansher): experimenting with ideas and learning through building.
 - **Games** — [flappyansh](https://github.com/anshlabs716/flappyansh): experimenting with gameplay, programming and interactive ideas.
 - **Security** — [invoke-bsod](https://github.com/anshlabs716/invoke-bsod) and [deadly-scripts](https://github.com/anshlabs716/deadly-scripts): exploring security concepts and security-related tooling.
