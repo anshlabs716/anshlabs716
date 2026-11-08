@@ -35,6 +35,15 @@
 
 ---
 
+## 🤝 Friends & Mentors
+
+- [@JaiGuyIsland](https://github.com/JaiGuyIsland) — **tomahawkkat** (friend)
+- [@wizzomafizzo](https://github.com/wizzomafizzo) — **Callan Barrett** (mentor)
+- [@Gurjas9090](https://github.com/Gurjas9090) (mentor)
+- [@shozanthebozan](https://github.com/shozanthebozan) (friend)
+
+---
+
 ## 📬 Contact & Build With Me
 
 Want to **develop with me, build something together, collaborate on a project, or share an idea**? Have a project idea, want to test something, or just want to talk tech? Reach out through any of the buttons below.
@@ -206,14 +215,5 @@ If you like what I'm building, the best support is to **use my projects, test th
 **build. break. fix. ship. 🚀**
 
 </div>
-
----
-
-## 🤝 Friends & Mates
-
-- [@JaiGuyIsland](https://github.com/JaiGuyIsland) — **tomahawkkat**
-- [@wizzomafizzo](https://github.com/wizzomafizzo) — **Callan Barrett**
-- [@Gurjas9090](https://github.com/Gurjas9090)
-- [@shozanthebozan](https://github.com/shozanthebozan)
 
 ---
