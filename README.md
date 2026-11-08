@@ -208,3 +208,12 @@ If you like what I'm building, the best support is to **use my projects, test th
 </div>
 
 ---
+
+## 🤝 Friends & Mates
+
+- [@JaiGuyIsland](https://github.com/JaiGuyIsland) — **tomahawkkat**
+- [@wizzomafizzo](https://github.com/wizzomafizzo) — **Callan Barrett**
+- [@Gurjas9090](https://github.com/Gurjas9090)
+- [@shozanthebozan](https://github.com/shozanthebozan)
+
+---
